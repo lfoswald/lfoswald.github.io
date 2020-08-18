@@ -31,5 +31,6 @@ Further interests
 * Decision making under uncertainty 
 * Risk perception and technology acceptance in the face of crisis (e.g. climate engineering or contact tracing)
 
-### Please reach out if you would like to exchange ideas, if you are interested in collaborating on a project or simply if you have further questions!  
+### Please reach out if you'd like to exchange ideas, are interested in collaborating on a project or simply if you have any further questions!  
+Looking forward to hearing from you! 
 Cheers, Lisa
