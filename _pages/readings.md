@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Here are some quick book recommendation in the form of commented book stacks, grouped by broad topic.
+Here are some quick book recommendation in the form of commented book stacks, grouped by broad topic. 
+
+(Page in progress)
 
 ### ("Smart") Cities
 
