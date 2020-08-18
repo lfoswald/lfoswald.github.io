@@ -64,4 +64,4 @@ Supporting ”the university education of young people who, on account of their 
 
 
 
-[Download CV here](http://lfoswald.github.io/files/CV_Oswald_public.pdf)
+[Download CV here](http://lfoswald.github.io/files/CV_oswald_public.pdf)
