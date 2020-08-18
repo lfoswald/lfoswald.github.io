@@ -9,51 +9,68 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+RESEARCH INTERESTS
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Behavioral science for citizen empowerment in ”Smart City” governance 
+* Psychology of sustainable behavior, especially travel and transportation 
+* Climate change communication and climate change skepticism
+* Online opinion dynamics and political polarization
 
-Work experience
+EDUCATION
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+### PhD Governance, Hertie School Berlin (2020-2023)
+Research focus: Psychological perspectives on citizen representation and participation in Smart City initiatives using empirical social data science approaches in collaboration with the Data Science Lab at the Hertie School
+### MSc. Social Data Science, University of Oxford (2019-2020)
+Interdisciplinary and truly international graduate program, hosted by the Oxford Internet Institute, at the intersection between social science and computational science, with a practical focus on data analysis and programming with Python, Internet research and political science
+### MSc. Psychology, University of Kassel (2016-2019)
+First major in Social and Environmental Psychology, second major in Clinical Psychology. Master thesis: Social Dynamics of Air Travel
+### BSc. Psychology, University of Kassel (2013-2016)
+Bachelor thesis in environmental psychology: Outdoor sport and Environmental behavior. Presentation of thesis-related paper at the AASP Conference in Toronto, 2018
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+WORK EXPERIENCE
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Research Assistant, Center for Environmental Systems Research (CESR) (2017-2019)
+Within the DFG funded TOMACE project (Trade Offs between Mitigation and Climate Engineering) we analyzed the public attitude towards solar radiation management. My focus was on psychological test construction and data analysis and visualization using RStudio. The project was embedded in the SESAM group (Socio-environmental Systems Analysis and Modelling).
+ 
+### Teaching Assistant, University of Kassel, Department of Psychology (2014-2016)
+Teaching groups of 30-40 undergraduate students, I deepened the topics presented in the Quantitative Methods I and II lectures.
+Research Assistant 2014-2016 University of Kassel, department of Psychology, Psychology of Memory
+Within a project on false memories, I tested individuals in the laboratory.
 
-Publications
+PUBLICATIONS
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Oswald, L., & Ernst, A. (2020). Flying in the Face of Climate Change: Quantitative psychological approach examining the social drivers of individual air travel. Journal of Sustainable Tourism. in press.
+* Klaus, G., Ernst, A., & Oswald, L. (2020). Psychological factors influencing laypersons’ acceptance of climate engineering, climate change mitigation and business as usual scenarios. Technology in Society, 60, 101222.
+
+VOLUNTEER EXPERIENCE
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+### Seminar Organization, Network Analysis for Sustainable Development (2019-2020)
+In collaboration with the German Academic National Foundation (Studienstiftung des Deutschen Volkes), we hold a 4-day Seminar with 85 participants, international speakers, multiple workshops, talks and hands-on projects on the potentials of Network Analysis in the context of sustainable development (e.g. mobility networks, ecological networks, climate networks and the Sustainable Development Goals of the UN) in Berlin.
+Elected Student Representative 2018-2019 Graduate Center for Environmental Studies and Teaching (GradZ), University of Kassel I represented students’ interests in the interdisciplinary center for environmental research at
+the University of Kassel.
+### Seminar Organization, Artificial Intelligence and Society (2018-2019)
+Funded by the German Academic National Foundation (Studienstiftung des Deutschen Volkes), we organized an interdisciplinary discussion seminar on artificial intelligence with a focus on societal, technical, scientific and ethical perspectives, in collaboration with the Ludwig-Maximilian-University, Munich.
+Seminar Organization 2017-2018 Sustainability Scenario Modelling
+We organized this seminar for scholarship holders of the German Academic National Foun- dation (Studienstiftung des Deutschen Volkes) with a sustainability focus. We developed climate models and social scenarios, hosted 9 International speakers, in collaboration with IIASA Vienna and University of Vienna. I also gained some practical experiences of modelling with System Dynamics.
+### Elected Student Representative, Directorate, Department of Psychology, University of Kassel (2017-2018)
+I communicated psychology students’ interests to professors, and leaned a lot about the internal politics of a scientific institution. Currently (since 2018), I am the elected student representative at the Graduate Center of Environmental Research and Teaching.
+### Sport Psychology, FC Augsburg, German premier league soccer team (2017)
+My job was the collection and analysis of data for research and diagnostics on motivation and volition, as well as the communication of results to coaches and staff.
+### Psychological therapy of chronic pain, German Red Cross Hospital, Kassel (Pain Clinic) (2015)
+I led psycho educative groups on the dynamics of chronic pain, especially headaches and stress, and I tought relaxation, mindfulness and meditation methods.
+
+AWARDS AND SCHOLARSHIPS
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+### Carl-Friedrich Graumann Award, German Psychological Society (DGPs), Section Environmental Psychology (2018)
+Honoring Bachelorthesis (Outdoor Sport and Environmental behavior) as best newcomer
+scientist work in the field of environmental psychology (award every two years).
+### Scholarship, German Academic National Foundation (Studienstiftung des Deutschen Volkes) (2016-2020 )
+Supporting ”the university education of young people who, on account of their exceptional academic or artistic talents and their personalities, can be expected to make an outstanding contribution to society as a whole”.
+
+SPORTS
 ======
-* Currently signed in to 43 different slack teams
+### Archery
+* Member of the German Junior National Team (2011-2013)
+* Participation European Championships and World Championships
+* German Champion, Olympic Recurve, Outdoor and Indoor (2011)
+* German Vice Champion, Field (2013)
