@@ -19,8 +19,6 @@ Here are some quick book recommendation in the form of commented book stacks, gr
 
 ### Internet & Society
 
-### Classics & Essays
-
 ### Statistics
 
 ### Data Science 
@@ -28,3 +26,5 @@ Here are some quick book recommendation in the form of commented book stacks, gr
 ### Novels
 
 ### Other non Fiction
+
+### Classics & Essays
