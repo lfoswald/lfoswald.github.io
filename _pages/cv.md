@@ -61,3 +61,7 @@ Supporting ”the university education of young people who, on account of their 
 * Participation in European Championships, World Championships and various other international competitions
 * German Champion, Olympic Recurve, Outdoor and Indoor (2011)
 * German Vice Champion, Field (2013)
+
+
+
+[Download CV here](http://lfoswald.github.io/files/CV_Oswald_public.pdf)
