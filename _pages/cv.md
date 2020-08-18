@@ -9,13 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-RESEARCH INTERESTS
-======
-* Behavioral science for citizen empowerment in ”Smart City” governance 
-* Psychology of sustainable behavior, especially travel and transportation 
-* Climate change communication and climate change skepticism
-* Online opinion dynamics and political polarization
-
 EDUCATION
 ======
 ### PhD Governance, Hertie School Berlin (2020-2023)
@@ -61,10 +54,10 @@ I led psycho educative groups on the dynamics of chronic pain, especially headac
 
 AWARDS AND SCHOLARSHIPS
 ======
-### Carl-Friedrich Graumann Award, German Psychological Society (DGPs), Section Environmental Psychology (2018)
+* Carl-Friedrich Graumann Award, German Psychological Society (DGPs), Section Environmental Psychology (2018)
 Honoring Bachelorthesis (Outdoor Sport and Environmental behavior) as best newcomer
 scientist work in the field of environmental psychology (award every two years).
-### Scholarship, German Academic National Foundation (Studienstiftung des Deutschen Volkes) (2016-2020 )
+* Scholarship, German Academic National Foundation (Studienstiftung des Deutschen Volkes) (2016-2020)
 Supporting ”the university education of young people who, on account of their exceptional academic or artistic talents and their personalities, can be expected to make an outstanding contribution to society as a whole”.
 
 SPORTS
