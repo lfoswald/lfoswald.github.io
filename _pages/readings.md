@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Book Stacks"
 permalink: /readings/
 author_profile: true
 redirect_from:
