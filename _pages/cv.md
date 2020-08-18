@@ -54,16 +54,16 @@ I led psycho educative groups on the dynamics of chronic pain, especially headac
 
 AWARDS AND SCHOLARSHIPS
 ======
-* Carl-Friedrich Graumann Award, German Psychological Society (DGPs), Section Environmental Psychology (2018)
+### Carl-Friedrich Graumann Award, German Psychological Society (DGPs), Section Environmental Psychology (2018)
 Honoring Bachelorthesis (Outdoor Sport and Environmental behavior) as best newcomer
 scientist work in the field of environmental psychology (award every two years).
-* Scholarship, German Academic National Foundation (Studienstiftung des Deutschen Volkes) (2016-2020)
+### Scholarship, German Academic National Foundation (Studienstiftung des Deutschen Volkes) (2016-2020)
 Supporting ”the university education of young people who, on account of their exceptional academic or artistic talents and their personalities, can be expected to make an outstanding contribution to society as a whole”.
 
 SPORTS
 ======
 ### Archery
 * Member of the German Junior National Team (2011-2013)
-* Participation European Championships and World Championships
+* Participation in European Championships, World Championships and various other international competitions
 * German Champion, Olympic Recurve, Outdoor and Indoor (2011)
 * German Vice Champion, Field (2013)
