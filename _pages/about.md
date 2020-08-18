@@ -28,6 +28,6 @@ Citizen participation in "Smart City" initiatives with a focus on the City of Be
 * Decision making under uncertainty 
 * Risk perception and technology acceptance in the face of crisis (e.g. climate engineering or contact tracing)
 
-### Please do reach out if you'd like to exchange ideas, are interested in collaborating on a project or simply if you have questions!  
+### Please do reach out if you'd like to exchange ideas, if you are interested in collaborating on a project or simply if you have questions!  
 Looking forward to hearing from you! 
 Cheers, Lisa
