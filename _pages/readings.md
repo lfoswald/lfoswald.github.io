@@ -10,10 +10,10 @@ redirect_from:
 {% include base_path %}
 
 
-### This is the first books stack
+### This is the first book stack
 
-### This is the second books stack
+### This is the second book stack
 
-### This is the third books stack
+### This is the third book stack
 
-### This is the fourth books stack
+### This is the fourth book stack
