@@ -9,11 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+Here are some quick book recommendation in the form of commented book stacks, grouped by broad topic.
 
-### This is the first book stack
+### ("Smart") Cities
 
-### This is the second book stack
+### Environment & Climate Change
 
-### This is the third book stack
+### Social Science
 
-### This is the fourth book stack
+### Internet & Society
+
+### Classics & Essays
+
+### Statistics
+
+### Data Science 
+
+### Novels
+
+### Other non Fiction
