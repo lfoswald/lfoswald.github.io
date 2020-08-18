@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "LISA OSWALD"
+title                    : "LISA OSWALD" 
 title_separator          : "-"
 name                     : &name "Lisa Oswald"
 description              : &description "PhD student in Governance at the Data Science Lab at the Hertie School, Berlin."
