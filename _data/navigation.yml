@@ -2,6 +2,12 @@
 main:
   - title: "Publications"
     url: /publications/
+    
+  - title: "Book Stacks"
+    url: /readings/
+    
+  - title: "CV"
+    url: /cv/
 
   - #title: "Talks"
     #url: /talks/    
@@ -11,15 +17,9 @@ main:
     
   - #title: "Portfolio"
     #url: /portfolio/
-    
-  - title: "Book Stacks"
-    url: /readings/
         
   - #title: "Blog Posts"
     #url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
     
   - #title: "Guide"
     #url: /markdown/
