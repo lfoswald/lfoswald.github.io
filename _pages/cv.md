@@ -27,7 +27,8 @@ Within the DFG funded TOMACE project (Trade Offs between Mitigation and Climate 
  
 ### Teaching Assistant, University of Kassel, Department of Psychology (2014-2016)
 Teaching groups of 30-40 undergraduate students, I deepened the topics presented in the Quantitative Methods I and II lectures.
-Research Assistant 2014-2016 University of Kassel, department of Psychology, Psychology of Memory
+
+### Research Assistant, University of Kassel, department of Psychology, Psychology of Memory (2014-2016)
 Within a project on false memories, I tested individuals in the laboratory.
 
 PUBLICATIONS
@@ -39,11 +40,12 @@ VOLUNTEER EXPERIENCE
 ======
 ### Seminar Organization, Network Analysis for Sustainable Development (2019-2020)
 In collaboration with the German Academic National Foundation (Studienstiftung des Deutschen Volkes), we hold a 4-day Seminar with 85 participants, international speakers, multiple workshops, talks and hands-on projects on the potentials of Network Analysis in the context of sustainable development (e.g. mobility networks, ecological networks, climate networks and the Sustainable Development Goals of the UN) in Berlin.
-Elected Student Representative 2018-2019 Graduate Center for Environmental Studies and Teaching (GradZ), University of Kassel I represented students’ interests in the interdisciplinary center for environmental research at
+### Elected Student Representative, Graduate Center for Environmental Studies and Teaching (GradZ), University of Kassel (2018-2019)
+I represented students’ interests in the interdisciplinary center for environmental research at
 the University of Kassel.
 ### Seminar Organization, Artificial Intelligence and Society (2018-2019)
 Funded by the German Academic National Foundation (Studienstiftung des Deutschen Volkes), we organized an interdisciplinary discussion seminar on artificial intelligence with a focus on societal, technical, scientific and ethical perspectives, in collaboration with the Ludwig-Maximilian-University, Munich.
-Seminar Organization 2017-2018 Sustainability Scenario Modelling
+### Seminar Organization, Sustainability Scenario Modelling (2017-2018)
 We organized this seminar for scholarship holders of the German Academic National Foun- dation (Studienstiftung des Deutschen Volkes) with a sustainability focus. We developed climate models and social scenarios, hosted 9 International speakers, in collaboration with IIASA Vienna and University of Vienna. I also gained some practical experiences of modelling with System Dynamics.
 ### Elected Student Representative, Directorate, Department of Psychology, University of Kassel (2017-2018)
 I communicated psychology students’ interests to professors, and leaned a lot about the internal politics of a scientific institution. Currently (since 2018), I am the elected student representative at the Graduate Center of Environmental Research and Teaching.
