@@ -40,17 +40,17 @@ the University of Kassel.
 ### Seminar Organization, Artificial Intelligence and Society (2018-2019)
 Funded by the German Academic National Foundation (Studienstiftung des Deutschen Volkes), we organized an interdisciplinary discussion seminar on artificial intelligence with a focus on societal, technical, scientific and ethical perspectives, in collaboration with the Ludwig-Maximilian-University, Munich.
 ### Seminar Organization, Sustainability Scenario Modelling (2017-2018)
-We organized this seminar for scholarship holders of the German Academic National Foun- dation (Studienstiftung des Deutschen Volkes) with a sustainability focus. We developed climate models and social scenarios, hosted 9 International speakers, in collaboration with IIASA Vienna and University of Vienna. I also gained some practical experiences of modelling with System Dynamics.
+We organized this seminar for scholarship holders of the German Academic National Foun- dation (Studienstiftung des Deutschen Volkes) with a sustainability focus. We developed climate models and social scenarios, hosted 9 International speakers, in collaboration with IIASA Vienna and University of Vienna. I also gained some practical experiences in modelling with System Dynamics.
 ### Elected Student Representative, Directorate, Department of Psychology, University of Kassel (2017-2018)
-I communicated psychology students’ interests to professors, and leaned a lot about the internal politics of a scientific institution. Currently (since 2018), I am the elected student representative at the Graduate Center of Environmental Research and Teaching.
+I communicated psychology students’ interests to professors, and leaned a lot about the internal politics of a scientific institution. 
 ### Sport Psychology, FC Augsburg, German premier league soccer team (2017)
 My job was the collection and analysis of data for research and diagnostics on motivation and volition, as well as the communication of results to coaches and staff.
 ### Psychological therapy of chronic pain, German Red Cross Hospital, Kassel (Pain Clinic) (2015)
-I led psycho educative groups on the dynamics of chronic pain, especially headaches and stress, and I tought relaxation, mindfulness and meditation methods.
+I led psycho-educative groups on the dynamics of chronic pain, especially headaches and stress, and I tought relaxation, mindfulness and meditation methods.
 
 # AWARDS AND SCHOLARSHIPS
 ### Carl-Friedrich Graumann Award, German Psychological Society (DGPs), Section Environmental Psychology (2018)
-Honoring Bachelorthesis (Outdoor Sport and Environmental behavior) as best newcomer
+Honouring my bachelor thesis (Outdoor Sport and Environmental behavior) as best newcomer
 scientist work in the field of environmental psychology (award every two years).
 ### Scholarship, German Academic National Foundation (Studienstiftung des Deutschen Volkes) (2016-2020)
 Supporting ”the university education of young people who, on account of their exceptional academic or artistic talents and their personalities, can be expected to make an outstanding contribution to society as a whole”.
