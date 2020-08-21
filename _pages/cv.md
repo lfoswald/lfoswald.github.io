@@ -63,5 +63,4 @@ Supporting ”the university education of young people who, on account of their 
 * German Vice Champion, Field (2013)
 
 
-
 [Download CV here](http://lfoswald.github.io/files/CV_oswald_public.pdf)
