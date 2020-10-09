@@ -85,7 +85,7 @@ author:
   avatar           : "profile.png"
   bio              : "PhD student at the Hertie School"
   location         : "Berlin"
-  employer         :
+  employer         : "https://www.hertie-school.org/en/who-we-are/profile/person/oswald"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=_Q1LUZEAAAAJ&hl=de&oi=ao"
   email            :
