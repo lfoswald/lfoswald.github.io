@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a PhD in Governance at the Hertie School in Berlin. My research focuses on the social and ecological aspects of digitization processes in urban areas. I am particularly interested in the way citizens are represented and included in "Smart City" initiatives, to promote sustainable transformations towards a socially equal and ecologically responsible urban future. 
+I am currently pursuing a PhD in Governance at the Hertie School in Berlin. My research focuses on citizen deliberation in online enviornments. This is only one way of addressing the important question of how the digital sphere influences democracy. In other words, I am interested in how the internet's potential can be used to foster a democratic discourse among a diverse citizenship to develop a livable, sustainable and just future. 
 
-I graduated from the University of Oxford, UK, with a MSc degree in Social Data Science, and from the University of Kassel, Germany, with a BSc and MSc degree in Psychology. I previously worked as a student research assistant at the Center for Environmental Systems Research (CESR) Kassel, responsible for the statistical analysis of data in a DFG funded project on the public perception of climate engineering technologies. I am interested in the public perception of climate change, political opinion formation, online communication dynamics and the emergence of collective behaviour. I would like to help construct better policies for sustainability and human well-being, such as the sustainable transformation of mobility systems in urban areas, using my expertise in quantitative methods and psychology. 
+I graduated from the University of Oxford, UK, with a MSc degree in Social Data Science, and from the University of Kassel, Germany, with a BSc and MSc degree in Psychology. I previously worked as a student research assistant at the Center for Environmental Systems Research (CESR) Kassel, responsible for the statistical analysis of data in a DFG funded project on the public perception of climate engineering technologies. I am further interested in the public perception of climate change, political opinion formation, online communication dynamics and the emergence of collective behaviour. I would like to help construct better policies for sustainability and human well-being, such as the sustainable transformation of mobility systems in urban areas, using my expertise in quantitative methods and psychology. 
 
 ## Most recent paper
 Oswald, L., & Ernst, A. (2020). Flying in the Face of Climate Change: Quantitative psychological approach examining the social drivers of individual air travel. Journal of Sustainable Tourism. in press.
 
 ## Current work
-Citizen participation in "Smart City" initiatives with a focus on the City of Berlin.
+Online Deliberation, selection effects, deliberative design and platform policy
 
 ## Further interests
 
