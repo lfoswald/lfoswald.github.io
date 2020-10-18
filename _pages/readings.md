@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here are some quick book recommendation in the form of book stacks, grouped by topic or genre. Please reach out, if you want to know more about a certain book. Most of the German books should be available in English too. 
+Here are some quick book recommendation in the form of book stacks, grouped by topic or genre. Please reach out, if you want to know more about a book. In case you live in Berlin, drop by if you like to borrow one. Most of the German books should be available in English too. 
 
 ### Weekend read non-fiction
 
