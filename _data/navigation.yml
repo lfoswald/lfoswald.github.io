@@ -8,8 +8,11 @@ main:
     
   - title: "Book Stacks"
     url: /readings/
+    
+  - title: "HP Test"
+    url: https://oswald.shinyapps.io/hogwartshouses/
           
-  - #title: "Blog Posts"
+  - #title: "HP Test"
     #url: /year-archive/
 
   - #title: "Talks"
