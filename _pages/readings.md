@@ -9,24 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
-Here are some quick book recommendation in the form of commented book stacks, grouped by topic or genre. 
+Here are some quick book recommendation in the form of book stacks, grouped by topic or genre. 
 
-(Page in progress)
+### Weekend read non-fiction
 
-### ("Smart") Cities
+![Non Fiction](non_fiction_stack.JPG)
 
-### Environment & Climate Change
+### Social Science & Technology
 
-### Social Science
+![Critical](critical_stack.JPG)
 
-### Internet & Society
+### Cities 
 
-### Statistics
-
-### Data Science 
+![Cities](city_stack.JPG)
 
 ### Novels
 
-### Other non Fiction
+![Novels](novels_stack.JPG)
 
 ### Classics & Essays
+
+![Classics](classics_stack.JPG)
+
+### Statistics & Data Science methods
+
+![Methods](method_stack.JPG)
