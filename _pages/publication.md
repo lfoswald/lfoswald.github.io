@@ -19,4 +19,3 @@ and get free access with this [eprint link](https://www.tandfonline.com/eprint/H
 Klaus, G., Ernst, A., & Oswald, L. (2020). Psychological factors influencing laypersons’ acceptance of climate engineering, climate change mitigation and business as usual scenarios. Technology in Society, 60, 101222.
 [Find paper here](https://www.sciencedirect.com/science/article/pii/S0160791X1930137X)
 
-![CE](CE.jpg)
