@@ -30,4 +30,4 @@ Online Deliberation, selection effects, deliberative design and platform policy
 
 ### Please do reach out if you'd like to exchange ideas, if you are interested in collaborating on a project or simply if you have questions!  
 Looking forward to hearing from you! 
-Cheers, Lisa
+Lisa
