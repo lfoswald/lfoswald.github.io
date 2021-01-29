@@ -27,10 +27,6 @@ Teaching groups of 30-40 undergraduate students, I deepened the topics presented
 ### Research Assistant, University of Kassel, department of Psychology, Psychology of Memory (2014-2016)
 Within a project on false memories, I tested individuals in the laboratory.
 
-# PUBLICATIONS
-* Oswald, L., & Ernst, A. (2020). Flying in the Face of Climate Change: Quantitative psychological approach examining the social drivers of individual air travel. Journal of Sustainable Tourism. in press.
-* Klaus, G., Ernst, A., & Oswald, L. (2020). Psychological factors influencing laypersons’ acceptance of climate engineering, climate change mitigation and business as usual scenarios. Technology in Society, 60, 101222.
-
 # VOLUNTEER EXPERIENCE
 ### Seminar Organization, Network Analysis for Sustainable Development (2019-2020)
 In collaboration with the German Academic National Foundation (Studienstiftung des Deutschen Volkes), we hold a 4-day Seminar with 85 participants, international speakers, multiple workshops, talks and hands-on projects on the potentials of Network Analysis in the context of sustainable development (e.g. mobility networks, ecological networks, climate networks and the Sustainable Development Goals of the UN) in Berlin.
