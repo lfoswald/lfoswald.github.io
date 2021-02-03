@@ -20,6 +20,10 @@ First major in Social and Environmental Psychology, second major in Clinical Psy
 Bachelor thesis in environmental psychology: Outdoor sport and Environmental behavior. Presentation of thesis-related paper at the AASP Conference in Toronto, 2018
 
 # WORK EXPERIENCE
+### Teaching Assistant, Hertie School, Statistical Modeling & Causal Inference (2021-now)
+Teaching groups of MSc students (MSc in public policy), I revised the topics presented in the lecture on statistical modeling and causal inference and demonstrated practical applications of the methods to real-life data sets in R.
+### Research Consultant, Hertie School, Data Science Lab (2020-2021)
+Providing help and advice on methodological and technical issues that appear in the course of students’ research, e.g. questions of research design, quantitative measurement, statistical inference and computational tools.
 ### Research Assistant, Center for Environmental Systems Research (CESR) (2017-2019)
 Within the DFG funded TOMACE project (Trade Offs between Mitigation and Climate Engineering) we analyzed the public attitude towards solar radiation management. My focus was on psychological test construction and data analysis and visualization using RStudio. The project was embedded in the SESAM group (Socio-environmental Systems Analysis and Modelling).
 ### Teaching Assistant, University of Kassel, Department of Psychology (2014-2016)
@@ -46,7 +50,7 @@ I led psycho-educative groups on the dynamics of chronic pain, especially headac
 
 # AWARDS AND SCHOLARSHIPS
 ### Highly commended thesis 2020, Oxford Internet Institute
-Awarded thesis for the MSc Social Data Science (Should we talk to climate skeptics)), awared yearly.
+Awarded thesis for the MSc Social Data Science (Should we talk to climate skeptics), award yearly.
 ### Carl-Friedrich Graumann Award, German Psychological Society (DGPs), Section Environmental Psychology (2018)
 Honouring my bachelor thesis (Outdoor Sport and Environmental behavior) as best newcomer
 scientist work in the field of environmental psychology, award every two years.
