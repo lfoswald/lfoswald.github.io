@@ -31,6 +31,17 @@ Teaching groups of 30-40 undergraduate students, I deepened the topics presented
 ### Research Assistant, University of Kassel, department of Psychology, Psychology of Memory (2014-2016)
 Within a project on false memories, I tested individuals in the laboratory.
 
+
+# AWARDS AND SCHOLARSHIPS
+### Highly commended thesis 2020, Oxford Internet Institute
+Awarded thesis for the MSc Social Data Science (Should we talk to climate skeptics), award yearly.
+### Carl-Friedrich Graumann Award, German Psychological Society (DGPs), Section Environmental Psychology (2018)
+Honouring my bachelor thesis (Outdoor Sport and Environmental behavior) as best newcomer
+scientist work in the field of environmental psychology, award every two years.
+### Scholarship, German Academic National Foundation (Studienstiftung des Deutschen Volkes) (2016-2020)
+Supporting ”the university education of young people who, on account of their exceptional academic or artistic talents and their personalities, can be expected to make an outstanding contribution to society as a whole”.
+
+
 # VOLUNTEER EXPERIENCE
 ### Seminar Organization, Network Analysis for Sustainable Development (2019-2020)
 In collaboration with the German Academic National Foundation (Studienstiftung des Deutschen Volkes), we hold a 4-day Seminar with 85 participants, international speakers, multiple workshops, talks and hands-on projects on the potentials of Network Analysis in the context of sustainable development (e.g. mobility networks, ecological networks, climate networks and the Sustainable Development Goals of the UN) in Berlin.
@@ -48,15 +59,7 @@ My job was the collection and analysis of data for research and diagnostics on m
 ### Psychological therapy of chronic pain, German Red Cross Hospital, Kassel (Pain Clinic) (2015)
 I led psycho-educative groups on the dynamics of chronic pain, especially headaches and stress, and I tought relaxation, mindfulness and meditation methods.
 
-# AWARDS AND SCHOLARSHIPS
-### Highly commended thesis 2020, Oxford Internet Institute
-Awarded thesis for the MSc Social Data Science (Should we talk to climate skeptics), award yearly.
-### Carl-Friedrich Graumann Award, German Psychological Society (DGPs), Section Environmental Psychology (2018)
-Honouring my bachelor thesis (Outdoor Sport and Environmental behavior) as best newcomer
-scientist work in the field of environmental psychology, award every two years.
-### Scholarship, German Academic National Foundation (Studienstiftung des Deutschen Volkes) (2016-2020)
-Supporting ”the university education of young people who, on account of their exceptional academic or artistic talents and their personalities, can be expected to make an outstanding contribution to society as a whole”.
- 
+
 # SPORTS
 ### Archery
 * Member of the German Junior National Team (2011-2013)
