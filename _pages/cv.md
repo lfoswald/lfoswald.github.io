@@ -45,9 +45,11 @@ My job was the collection and analysis of data for research and diagnostics on m
 I led psycho-educative groups on the dynamics of chronic pain, especially headaches and stress, and I tought relaxation, mindfulness and meditation methods.
 
 # AWARDS AND SCHOLARSHIPS
+### Highly commended thesis 2020, Oxford Internet Institute
+Awarded thesis for the MSc Social Data Science (Should we talk to climate skeptics)), awared yearly.
 ### Carl-Friedrich Graumann Award, German Psychological Society (DGPs), Section Environmental Psychology (2018)
 Honouring my bachelor thesis (Outdoor Sport and Environmental behavior) as best newcomer
-scientist work in the field of environmental psychology (award every two years).
+scientist work in the field of environmental psychology, award every two years.
 ### Scholarship, German Academic National Foundation (Studienstiftung des Deutschen Volkes) (2016-2020)
 Supporting ”the university education of young people who, on account of their exceptional academic or artistic talents and their personalities, can be expected to make an outstanding contribution to society as a whole”.
  
