@@ -6,6 +6,9 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Teaching"
+    url: https://lfoswald.github.io/2021-spring-stats2/    
+    
   - title: "Book Stacks"
     url: /readings/
     
@@ -18,9 +21,6 @@ main:
   - #title: "Talks"
     #url: /talks/    
 
-  - #title: "Teaching"
-    #url: /teaching/    
-    
   - #title: "Portfolio"
     #url: /portfolio/
 
