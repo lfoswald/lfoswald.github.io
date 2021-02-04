@@ -8,12 +8,18 @@ redirect_from:
 ---
 
 {% include base_path %}
+# CV
 
-# EDUCATION
-### PhD Governance, Hertie School Berlin (2020-2023)
-Research focus: Psychological perspectives on citizen deliberation in online environments using empirical social data science approaches in collaboration with the Data Science Lab at the Hertie School
-### MSc. Social Data Science, University of Oxford (2019-2020)
-Interdisciplinary and truly international graduate program, hosted by the Oxford Internet Institute, at the intersection between social science and computational science, with a practical focus on data analysis and programming with Python, Internet research and political science. Master thesis: Climate skeptic attitudes and communication in the face of opposing views on Reddit
+### EDUCATION
+
+PhD Governance, Hertie School Berlin (2020-2023)
+
+* Research focus: Psychological perspectives on citizen deliberation in online environments using empirical social data science approaches in collaboration with the Data Science Lab at the Hertie School
+
+MSc. Social Data Science, University of Oxford (2019-2020)
+
+* Interdisciplinary and truly international graduate program, hosted by the Oxford Internet Institute, at the intersection between social science and computational science, with a practical focus on data analysis and programming with Python, Internet research and political science. Master thesis: Climate skeptic attitudes and communication in the face of opposing views on Reddit
+
 ### MSc. Psychology, University of Kassel (2016-2019)
 First major in Social and Environmental Psychology, second major in Clinical Psychology. Master thesis: Social Dynamics of Air Travel
 ### BSc. Psychology, University of Kassel (2013-2016)
