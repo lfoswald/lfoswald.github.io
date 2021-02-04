@@ -34,10 +34,10 @@ Within a project on false memories, I tested individuals in the laboratory.
 
 # AWARDS AND SCHOLARSHIPS
 ### Highly commended thesis 2020, Oxford Internet Institute
-Awarded thesis for the MSc Social Data Science (Should we talk to climate skeptics), award yearly.
+Price awarded for my MSc thesis in Social Data Science (Should we talk to climate skeptics?), annual award.
 ### Carl-Friedrich Graumann Award, German Psychological Society (DGPs), Section Environmental Psychology (2018)
 Honouring my bachelor thesis (Outdoor Sport and Environmental behavior) as best newcomer
-scientist work in the field of environmental psychology, award every two years.
+scientist work in the field of environmental psychology, bi-annual award.
 ### Scholarship, German Academic National Foundation (Studienstiftung des Deutschen Volkes) (2016-2020)
 Supporting ”the university education of young people who, on account of their exceptional academic or artistic talents and their personalities, can be expected to make an outstanding contribution to society as a whole”.
 
