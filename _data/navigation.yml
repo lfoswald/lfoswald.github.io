@@ -1,4 +1,5 @@
-# main links links
+# main links links, /folder/, or http...
+
 main:
   - title: "Publications"
     url: /publication/
@@ -9,20 +10,9 @@ main:
   - title: "Teaching"
     url: https://lfoswald.github.io/2021-spring-stats2/    
     
-  - title: "Book Stacks"
+  - title: "Reading"
     url: /readings/
     
   - title: "HP Test"
     url: https://oswald.shinyapps.io/hogwartshouses/
           
-  - #title: "HP Test"
-    #url: /year-archive/
-
-  - #title: "Talks"
-    #url: /talks/    
-
-  - #title: "Portfolio"
-    #url: /portfolio/
-
-  - #title: "Guide"
-    #url: /markdown/
