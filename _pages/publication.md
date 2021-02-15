@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 # Preprints
 
-Oswald, L. & Bright, J. (2021). How do climate change skeptics engage with opposing views? Understanding mechanisms of social identity and cognitive dissonance in an online forum. https://arxiv.org/abs/2102.06516
+Oswald, L. & Bright, J. (2021). How do climate change skeptics engage with opposing views? Understanding mechanisms of social identity and cognitive dissonance in an online forum. Out on [archive](https://arxiv.org/abs/2102.06516)
 
 # Peer-reviewed papers
 
