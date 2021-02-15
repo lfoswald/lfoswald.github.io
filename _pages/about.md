@@ -15,7 +15,7 @@ I am a doctoral researcher at the Hertie School in Berlin. My research focuses o
 I graduated from the University of Oxford, UK, with a MSc degree in Social Data Science, and from the University of Kassel, Germany, with a BSc and MSc degree in Psychology. I am currently working as a research consultant at the Hertie School's Data Science Lab. I previously worked at the Center for Environmental Systems Research (CESR) in Kassel, responsible for the statistical analysis of a project on the public perception of climate engineering technologies. I am further interested in the public perception of climate change, political opinion formation, online communication dynamics and the emergence of collective behaviour. I would like to help construct better policies for sustainability and human well-being, such as the sustainable transformation of mobility systems in urban areas, using my expertise in quantitative methods and psychology. 
 
 ## Current work
-Oswald, L. & Bright, J. (2021). How do climate change skeptics engage with opposing views? Understanding mechanisms of social identity and cognitive dissonance in an online forum. https://arxiv.org/abs/2102.06516
+Oswald, L. & Bright, J. (2021). How do climate change skeptics engage with opposing views? Understanding mechanisms of social identity and cognitive dissonance in an online forum. Out on [archive](https://arxiv.org/abs/2102.06516)
 
 ## Recent publications
 Oswald, L. & Ernst, A. (2020). Flying in the Face of Climate Change: Quantitative psychological approach examining the social drivers of individual air travel. Journal of Sustainable Tourism, 1-19.
