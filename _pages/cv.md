@@ -55,7 +55,7 @@ Research Assistant, University of Kassel, department of Psychology, Psychology o
 
 Highly commended thesis 2020, Oxford Internet Institute
 
-* Price awarded for my MSc thesis in Social Data Science (Should we talk to climate skeptics?), annual award.
+* Prize awarded for my MSc thesis in Social Data Science (Should we talk to climate skeptics?), annual award.
 
 Carl-Friedrich Graumann Award, German Psychological Society (DGPs), Section Environmental Psychology (2018)
 
