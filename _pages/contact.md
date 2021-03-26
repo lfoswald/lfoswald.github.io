@@ -5,7 +5,7 @@ excerpt: "Contact me"
 author_profile: true
 ---
 
-* E-mail: l.oswald [at] pdh.hertie-school.org
+* E-mail: l.oswald [at] phd.hertie-school.org
 * Twitter: [LisaFOswaldo](https://twitter.com/LisaFOswaldo)
 * Google Scholar: [Lisa Oswald](https://scholar.google.com/citations?user=_Q1LUZEAAAAJ&hl=de)
 * GitHub: [lfoswald](https://github.com/lfoswald)
