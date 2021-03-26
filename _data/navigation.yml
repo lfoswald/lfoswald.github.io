@@ -10,9 +10,12 @@ main:
   - title: "Teaching"
     url: https://lfoswald.github.io/2021-spring-stats2/    
     
-  - title: "Reading"
-    url: /readings/
+  #- title: "Reading"
+  #  url: /readings/
+  
+  - title: "Contact"
+    url: /contact/
     
-  - title: "HP Test"
+  - title: "Nerd"
     url: https://oswald.shinyapps.io/hogwartshouses/
           
