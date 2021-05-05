@@ -12,7 +12,7 @@ redirect_from:
 
 ### EDUCATION
 
-PhD Governance, Hertie School Berlin (2020-2023)
+PhD Political Science, Hertie School, Berlin, Doctoral Program in Governance (2020-2023)
 
 * Research focus: Psychological perspectives on citizen deliberation in online environments using empirical social data science approaches in collaboration with the Data Science Lab at the Hertie School
 
