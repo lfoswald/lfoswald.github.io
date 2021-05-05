@@ -69,19 +69,13 @@ Scholarship, German Academic National Foundation (Studienstiftung des Deutschen 
 
 ### VOLUNTEER EXPERIENCE
 
-Seminar Organization, Network Analysis for Sustainable Development (2019-2020)
-
-Elected Student Representative, Graduate Center for Environmental Studies and Teaching (GradZ), University of Kassel (2018-2019)
-
-Seminar Organization, Artificial Intelligence and Society (2018-2019)
-
-Seminar Organization, Sustainability Scenario Modelling (2017-2018)
-
-Elected Student Representative, Directorate, Department of Psychology, University of Kassel (2017-2018)
-
-Sport Psychology, FC Augsburg, German premier league soccer team (2017)
-
-Psychological therapy of chronic pain, German Red Cross Hospital, Kassel (Pain Clinic) (2015)
+* Seminar Organization, Network Analysis for Sustainable Development (2019-2020)
+* Elected Student Representative, Graduate Center for Environmental Studies and Teaching (GradZ), University of Kassel (2018-2019)
+* Seminar Organization, Artificial Intelligence and Society (2018-2019)
+* Seminar Organization, Sustainability Scenario Modelling (2017-2018)
+* Elected Student Representative, Directorate, Department of Psychology, University of Kassel (2017-2018)
+* Sport Psychology, FC Augsburg, German premier league soccer team (2017)
+* Psychological therapy of chronic pain, German Red Cross Hospital, Kassel (Pain Clinic) (2015)
 
 
 ### SPORTS
