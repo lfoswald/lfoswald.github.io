@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 # CV
 
-### EDUCATION
+#### EDUCATION
 
 PhD Governance, Hertie School Berlin (2020-2023)
 
@@ -28,7 +28,7 @@ BSc. Psychology, University of Kassel (2013-2016)
 
 * Bachelor thesis in environmental psychology: Outdoor sport and Environmental behavior. Presentation of thesis-related paper at the AASP Conference in Toronto, 2018
 
-### WORK EXPERIENCE
+#### WORK EXPERIENCE
 
 Teaching Assistant, Hertie School, Statistical Modeling & Causal Inference (2021-now)
 
@@ -51,7 +51,7 @@ Research Assistant, University of Kassel, department of Psychology, Psychology o
 * Within a project on false memories, I tested individuals in the laboratory.
 
 
-### AWARDS AND SCHOLARSHIPS
+#### AWARDS AND SCHOLARSHIPS
 
 Highly commended thesis 2020, Oxford Internet Institute
 
@@ -67,39 +67,24 @@ Scholarship, German Academic National Foundation (Studienstiftung des Deutschen 
 * Supporting ”the university education of young people who, on account of their exceptional academic or artistic talents and their personalities, can be expected to make an outstanding contribution to society as a whole”.
 
 
-### VOLUNTEER EXPERIENCE
+#### VOLUNTEER EXPERIENCE
 
 Seminar Organization, Network Analysis for Sustainable Development (2019-2020)
 
-* In collaboration with the German Academic National Foundation (Studienstiftung des Deutschen Volkes), we hold a 4-day Seminar with 85 participants, international speakers, multiple workshops, talks and hands-on projects on the potentials of Network Analysis in the context of sustainable development (e.g. mobility networks, ecological networks, climate networks and the Sustainable Development Goals of the UN) in Berlin.
-
 Elected Student Representative, Graduate Center for Environmental Studies and Teaching (GradZ), University of Kassel (2018-2019)
-
-* I represented students’ interests in the interdisciplinary center for environmental research at
-the University of Kassel.
 
 Seminar Organization, Artificial Intelligence and Society (2018-2019)
 
-* Funded by the German Academic National Foundation (Studienstiftung des Deutschen Volkes), we organized an interdisciplinary discussion seminar on artificial intelligence with a focus on societal, technical, scientific and ethical perspectives, in collaboration with the Ludwig-Maximilian-University, Munich.
-
 Seminar Organization, Sustainability Scenario Modelling (2017-2018)
-
-* We organized this seminar for scholarship holders of the German Academic National Foun- dation (Studienstiftung des Deutschen Volkes) with a sustainability focus. We developed climate models and social scenarios, hosted 9 International speakers, in collaboration with IIASA Vienna and University of Vienna. I also gained some practical experiences in modelling with System Dynamics.
 
 Elected Student Representative, Directorate, Department of Psychology, University of Kassel (2017-2018)
 
-* I communicated psychology students’ interests to professors, and leaned a lot about the internal politics of a scientific institution. 
-
 Sport Psychology, FC Augsburg, German premier league soccer team (2017)
-
-* My job was the collection and analysis of data for research and diagnostics on motivation and volition, as well as the communication of results to coaches and staff.
 
 Psychological therapy of chronic pain, German Red Cross Hospital, Kassel (Pain Clinic) (2015)
 
-* I led psycho-educative groups on the dynamics of chronic pain, especially headaches and stress, and I tought relaxation, mindfulness and meditation methods.
 
-
-### SPORTS
+#### SPORTS
 
 Archery
 
