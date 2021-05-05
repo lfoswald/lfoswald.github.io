@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 # CV
 
-#### EDUCATION
+### EDUCATION
 
 PhD Governance, Hertie School Berlin (2020-2023)
 
@@ -28,7 +28,7 @@ BSc. Psychology, University of Kassel (2013-2016)
 
 * Bachelor thesis in environmental psychology: Outdoor sport and Environmental behavior. Presentation of thesis-related paper at the AASP Conference in Toronto, 2018
 
-#### WORK EXPERIENCE
+### WORK EXPERIENCE
 
 Teaching Assistant, Hertie School, Statistical Modeling & Causal Inference (2021-now)
 
@@ -51,7 +51,7 @@ Research Assistant, University of Kassel, department of Psychology, Psychology o
 * Within a project on false memories, I tested individuals in the laboratory.
 
 
-#### AWARDS AND SCHOLARSHIPS
+### AWARDS AND SCHOLARSHIPS
 
 Highly commended thesis 2020, Oxford Internet Institute
 
@@ -67,7 +67,7 @@ Scholarship, German Academic National Foundation (Studienstiftung des Deutschen 
 * Supporting ”the university education of young people who, on account of their exceptional academic or artistic talents and their personalities, can be expected to make an outstanding contribution to society as a whole”.
 
 
-#### VOLUNTEER EXPERIENCE
+### VOLUNTEER EXPERIENCE
 
 Seminar Organization, Network Analysis for Sustainable Development (2019-2020)
 
@@ -84,7 +84,7 @@ Sport Psychology, FC Augsburg, German premier league soccer team (2017)
 Psychological therapy of chronic pain, German Red Cross Hospital, Kassel (Pain Clinic) (2015)
 
 
-#### SPORTS
+### SPORTS
 
 Archery
 
