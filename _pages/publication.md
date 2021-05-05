@@ -11,11 +11,11 @@ redirect_from:
 
 
 
-# Preprints
+#### Preprints
 
 Oswald, L. & Bright, J. (2021). How do climate change skeptics engage with opposing views? Understanding mechanisms of social identity and cognitive dissonance in an online forum. Out on [archive](https://arxiv.org/abs/2102.06516)
 
-# Peer-reviewed papers
+#### Peer-reviewed papers
 
 Klaus, G., Oswald, L., Ernst, A., & Merk, C. (2021). Effects of opinion statements on laypeople’s acceptance of a climate engineering technology. Comparing the source credibility of researchers, politicians and a citizens’ jury. Journal of Science Communication, DOI: 10.22323/2.20010203 [Find paper here](https://jcom.sissa.it/archive/20/01/JCOM_2001_2021_A03)
 
