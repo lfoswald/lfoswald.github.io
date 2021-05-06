@@ -21,8 +21,10 @@ redirect_from:
 
 I reviewed the lecture materials and hold R tutorials on the practical implementation of causal inference techniques for two diverse, interdisciplinary and international groups of students on a weekly basis. In collaboration with Sebastian Ramirez-Ruiz, we constructed weekly assignments to assess their learning progress continuously.
 
+Topics covered: Causality, DAGs, the Potential Outcomes Framework, Regression, Matching, Instrumental Variables, Regression Discontinuity Designs, Difference in Difference, Panel Data and Fixed Effects, Moderation and Mediation.
+
 **If you are interested in learning and implementing causal inference techniques in R, check out our 
-[open course materials](https://arxiv.org/abs/2102.06516)!**
+[open causal inference course materials](https://arxiv.org/abs/2102.06516)!**
 
 
 ### Quantitative Methods II
@@ -32,9 +34,18 @@ I reviewed the lecture materials and hold R tutorials on the practical implement
 * Program: BSc Psychology, University of Kassel, Germany
 * Teaching assistant to Dr. Isabel Lindner
 
+I reviewed the lecture materials and hold tutorials on how to derive estimates by hand (conceptually) and in R (applied).
+
+Topics covered: Analyses of Variance, Repeated Measures, (Semi)Partial Correlation, Multiple Regression, Analyses of Covariance, Non Parametrical Tests.
+
+
 ### Quantitative Methods I
 
 * Fall 2015
 * Teaching language: German
 * Program: BSc Psychology, University of Kassel, Germany
 * Teaching assistant to Dr. Isabel Lindner
+
+I reviewed the lecture materials and hold tutorials on how to derive estimates by hand (conceptually) and in R (applied).
+
+Topics covered: Scales and Variables, Measurement Theory, Descriptive Statistics, Logic of Statistical Tests and doing Inference, T-Tests, Correlation and Regression.
