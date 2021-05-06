@@ -10,8 +10,8 @@ main:
   - title: "Teaching"
     url: /teaching/
     
-  - title: "Teaching2"
-    url: https://lfoswald.github.io/2021-spring-stats2/    
+#  - title: "Teaching2"
+#    url: https://lfoswald.github.io/2021-spring-stats2/    
     
   #- title: "Reading"
   #  url: /readings/
