@@ -23,8 +23,8 @@ I reviewed the lecture materials and hold R tutorials on the practical implement
 
 Topics covered: Causality, DAGs, the Potential Outcomes Framework, Regression, Matching, Instrumental Variables, Regression Discontinuity Designs, Difference in Difference, Panel Data and Fixed Effects, Moderation and Mediation.
 
-**If you are interested in learning and implementing causal inference techniques in R, check out our 
-[open causal inference course materials](https://arxiv.org/abs/2102.06516)!**
+**If you are interested in learning and implementing causal inference techniques in R, check out our <br>
+[open causal inference course materials](https://lfoswald.github.io/2021-spring-stats2/)!**
 
 
 ### Quantitative Methods II
