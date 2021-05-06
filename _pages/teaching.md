@@ -20,7 +20,7 @@ redirect_from:
 
 I reviewed the lecture materials and hold R tutorials on the practical implementation of causal inference techniques for two diverse, interdisciplinary and international groups of students on a weekly basis. In collaboration with Sebastian Ramirez-Ruiz, we constructed weekly assignments to assess their learning progress continuously.
 
-Topics covered: Causality, DAGs, the Potential Outcomes Framework, Regression, Matching, Instrumental Variables, Regression Discontinuity Designs, Difference in Difference, Panel Data and Fixed Effects, Moderation and Mediation.
+**Topics covered:** Causality, DAGs, the Potential Outcomes Framework, Regression, Matching, Instrumental Variables, Regression Discontinuity Designs, Difference in Difference, Panel Data and Fixed Effects, Moderation and Mediation.
 
 **If you are interested in learning and implementing causal inference techniques in R, check out our <br>
 [open causal inference course materials](https://lfoswald.github.io/2021-spring-stats2/)!**
@@ -35,7 +35,7 @@ Topics covered: Causality, DAGs, the Potential Outcomes Framework, Regression, M
 
 I reviewed the lecture materials and hold tutorials on how to derive estimates by hand (conceptually) and in R (applied).
 
-Topics covered: Analyses of Variance, Repeated Measures, (Semi)Partial Correlation, Multiple Regression, Analyses of Covariance, Non Parametrical Tests.
+**Topics covered:** Analyses of Variance, Repeated Measures, (Semi)Partial Correlation, Multiple Regression, Analyses of Covariance, Non Parametrical Tests.
 
 
 ### Quantitative Methods I
@@ -47,4 +47,4 @@ Topics covered: Analyses of Variance, Repeated Measures, (Semi)Partial Correlati
 
 I reviewed the lecture materials and hold tutorials on how to derive estimates by hand (conceptually) and in R (applied).
 
-Topics covered: Scales and Variables, Measurement Theory, Descriptive Statistics, Logic of Statistical Tests and doing Inference, T-Tests, Correlation and Regression.
+**Topics covered:** Scales and Variables, Measurement Theory, Descriptive Statistics, Logic of Statistical Tests and doing Inference, T-Tests, Correlation and Regression.
