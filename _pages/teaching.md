@@ -47,4 +47,4 @@ I reviewed the lecture materials and hold tutorials on how to derive estimates b
 
 I reviewed the lecture materials and hold tutorials on how to derive estimates by hand (conceptually) and in R (applied).
 
-**Topics covered:** Scales and Variables, Measurement Theory, Descriptive Statistics, Logic of Statistical Tests and doing Inference, T-Tests, Correlation and Regression.
+**Topics covered:** Scales and Variables, Measurement Theory, Descriptive Statistics, Logic of Statistical Tests and Statistical Inference, T-Tests, Correlation and Regression.
