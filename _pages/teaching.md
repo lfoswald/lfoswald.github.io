@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-### Statistical Modeling & Causal Inference
+### 🎒 Statistical Modeling & Causal Inference
 
 * Spring 2021
 * Teaching language: English
@@ -26,7 +26,7 @@ I reviewed the lecture materials and hold R tutorials on the practical implement
 [open causal inference course materials](https://lfoswald.github.io/2021-spring-stats2/)!**
 
 
-### Quantitative Methods II
+### 🎒 Quantitative Methods II
 
 * Spring 2015, Spring 2016
 * Teaching language: German
@@ -38,7 +38,7 @@ I reviewed the lecture materials and hold tutorials on how to derive estimates b
 **Topics covered:** Analyses of Variance, Repeated Measures, (Semi)Partial Correlation, Multiple Regression, Analyses of Covariance, Non Parametrical Tests.
 
 
-### Quantitative Methods I
+### 🎒 Quantitative Methods I
 
 * Fall 2015
 * Teaching language: German
