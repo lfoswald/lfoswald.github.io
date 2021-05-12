@@ -9,11 +9,11 @@ redirect_from:
 ---
 # About
 
-I am a doctoral researcher at the Hertie School in Berlin. My research focuses on deliberation in online enviornments and the question of how the digital sphere influences democracy. While the attention economy, algorithmic curation and social network dynamics of online platforms can be a threat to democracy, I am interested in how the internet's potential can be used to ameliorate democratic discourse among a diverse citizenship to develop a livable, sustainable and just future. 
+I am a doctoral researcher at the Hertie School in Berlin and a computational social scientist with three anchors - psychology, politics and the internet. My research focuses on deliberation in online enviornments and the question of how the digital sphere influences democracy. While the attention economy, algorithmic curation and social network dynamics of online platforms can be a threat to democracy, I am interested in how the internet's potential can be used to ameliorate democratic discourse among a diverse citizenship to develop a livable, sustainable and just future. 
 
 I graduated from the University of Oxford, UK, with a MSc degree in Social Data Science, and from the University of Kassel, Germany, with a BSc and MSc degree in Psychology. I am currently working as a teaching assistant for the MSc course "Statistical Modeling & Causal Inference" of the policy analysis track at the Hertie School. I previously worked as a research consultant at the Hertie School's Data Science Lab and at the Center for Environmental Systems Research (CESR) in Kassel.
 
-I am futher interested in 
+## I am futher interested in 
 * The public perception of climate change, the psychology of sustainable behavior and the effects of science communication. 
 * Political opinion dynamics, political polarization, conspiracy myths and online extremism.  
 * The interplay of humans and technology, especially risk perception and technology acceptance in the face of crises (climate engineering and contact tracing). 
@@ -26,5 +26,3 @@ Oswald, L. & Bright, J. (2021). How do climate change skeptics engage with oppos
 
 ### Please do reach out if you'd like to exchange ideas, explore collaborations or if you have questions!  
 Lisa
-
-<span style="color:blue">*Computational social scientist - psychology, politics and the internet.* </span>.
