@@ -12,7 +12,7 @@ redirect_from:
 
 ### EDUCATION
 
-PhD Political Science, Hertie School, Berlin, [Doctoral Program in Governance](https://www.hertie-school.org/en/docgov){:target="_blank"} (2020-2023)
+PhD Political Science, Hertie School, Berlin, [Doctoral Program in Governance](https://www.hertie-school.org/en/docgov) (2020-2023)
 
 * Research focus: Psychological perspectives on democratic deliberation in online environments using empirical social data science approaches in collaboration with the [Data Science Lab](https://www.hertie-school.org/en/datasciencelab) at the Hertie School
 
