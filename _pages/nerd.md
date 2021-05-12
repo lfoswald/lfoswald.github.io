@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 
-# Nerd stuff
+# Nerd
 
-The cool thing about science is that you can have a lot of fun with it. 
+The cool thing about science is that you can have a lot of fun with it!
 
 
 ### Wizarding School House Sorting Test
@@ -24,10 +24,17 @@ We constructed the test to sort individuals into four houses of a wizarding scho
 We do not pursue any commercial interests. We were simply so excited about our project, that years after the course, people kept asking us to launch the survey again because "a friend of a friend would like to know their house too". In fact, we did this several times - launched the survey via a third party service and analyzed the data with a buggy R-Script, again and again. Therefore, I decided to make this test my first R-Shiny project.
 In case you have further question, take a look at the [code](https://github.com/lfoswald/housesortingtest/blob/main/app.R) or feel free to contact me. Plese enjoy it with a pinch of salt - and share it with your fellow wizards!
 
-[Take the test and find out your house](https://oswald.shinyapps.io/hogwartshouses/)
+[Take the test and find out your house!](https://oswald.shinyapps.io/hogwartshouses/)
 
+
+___
 
 In case you still have too much time, here are some podcast and reading recommendations.
+
+### Read
+
+### Listen
+
 
 
 
