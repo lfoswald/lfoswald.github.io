@@ -20,7 +20,7 @@ I graduated from the University of Oxford, UK, with a MSc degree in Social Data 
 * Climate change communication and climate change skepticism
 * Online opinion dynamics and political polarization
 * Conspiracy myths, extremism and online radicalization
-* Critical perspectives on data-driven solutions (e.g. in "Smart Cities), AI ethics
+* Critical perspectives on data-driven solutions (e.g. "Smart Cities"), AI ethics
 * Risk perception and technology acceptance in the face of crisis (e.g. climate engineering or contact tracing)
 * Emergence of collective behaviour
 
