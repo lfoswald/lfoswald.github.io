@@ -16,8 +16,8 @@ I graduated from the University of Oxford, UK, with a MSc degree in Social Data 
 ## I am futher interested in 
 * The public perception of climate change, the psychology of sustainable behavior and the effects of science communication. 
 * Political opinion dynamics, political polarization, conspiracy myths and online extremism.  
-* The interplay of humans and technology, especially risk perception and technology acceptance in the face of crises (climate engineering and contact tracing). 
-* Critical perspectives on technological solutions to social problems ("Smart Cities" and AI).
+* The interplay of humans and technology, especially risk perception and technology acceptance in the face of crises (e.g. climate engineering and Covid contact tracing). 
+* Critical perspectives on technological solutions to social problems (e.g. "Smart Cities" and AI).
 
 ## Most recent work
 Oswald, L. & Bright, J. (2021). How do climate change skeptics engage with opposing views? Understanding mechanisms of social identity and cognitive dissonance in an online forum. Out on [arXiv](https://arxiv.org/abs/2102.06516)
