@@ -41,12 +41,12 @@ In case you still have too much time, here are some podcast and reading recommen
 ### Read 
 
 * New to computational social science? [Bit by Bit](https://www.bitbybitbook.com/)
-* Stuck with coming up with social science research questions? [Methods of discovery](https://www.thalia.de/shop/home/artikeldetails/ID6792127.html)
+* Coming up with social science research questions? [Methods of discovery](https://www.thalia.de/shop/home/artikeldetails/ID6792127.html)
 * Technology is not the solution to everyting? [The smart enough city](https://mitpress.mit.edu/books/smart-enough-city)
 * Psychology is not the solution to everyting? [The quick fix](https://www.thalia.de/shop/home/artikeldetails/ID149757965.html)
 * What's going on with the internet and US politics? [Breaking the social media prism](https://press.princeton.edu/books/hardcover/9780691203423/breaking-the-social-media-prism)
-* Why was climate change a problem again and since when do we know that? [Limits to growth](https://www.clubofrome.org/publication/the-limits-to-growth/)
-* Cities are more than a collection of buildings? Building and Dwelling - Ethics for the city
-* Why do we travel and does that make sense at all? The art of travel
-* Why is everyone talking about causal inference? The book of why
-* What does feminism has to to with data? Invisible women
+* Why was climate change a problem again and since when do we know? [Limits to growth](https://www.clubofrome.org/publication/the-limits-to-growth/)
+* Cities are more than a collection of buildings? [Building and Dwelling](https://www.thalia.de/shop/home/artikeldetails/ID40475822.html)
+* Why do we travel and does that make sense at all? [The art of travel](https://www.thalia.de/shop/home/artikeldetails/ID38976532.html?ProvID=11000522&gclid=CjwKCAjw-e2EBhAhEiwAJI5jg6t-7G1o534MNoy7xRovOfhgDLaiutFEeW-LOAdC7tjxD1C-_qHRZhoCJWgQAvD_BwE)
+* Why is everyone talking about causal inference? [The book of why](http://bayes.cs.ucla.edu/WHY/)
+* What does feminism have to do with data? [Invisible women](https://www.thalia.de/shop/home/artikeldetails/ID144042836.html?ProvID=10907020&gclid=CjwKCAjw-e2EBhAhEiwAJI5jg_Ele7qEFYpHrrNLL12l-I4yk734TzkQKdkhijBmfHf4_sPgME3toRoCCzEQAvD_BwE&gclsrc=aw.ds)
