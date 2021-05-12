@@ -14,10 +14,8 @@ I am a doctoral researcher at the Hertie School in Berlin. My research focuses o
 
 I graduated from the University of Oxford, UK, with a MSc degree in Social Data Science, and from the University of Kassel, Germany, with a BSc and MSc degree in Psychology. I am currently working as a teaching assistant for the MSc course "Statistical Modeling & Causal Inference" of the policy analysis track at the Hertie School. I previously worked as a research consultant at the Hertie School's Data Science Lab and at the Center for Environmental Systems Research (CESR) in Kassel.
 
-I am further interested in the public perception of climate change, political opinion formation, online communication dynamics and the emergence of collective behaviour. In other current projects, I focus on conspiracy myths online and dynamics of political polarization. 
-
 ## Most recent work
-Oswald, L. & Bright, J. (2021). How do climate change skeptics engage with opposing views? Understanding mechanisms of social identity and cognitive dissonance in an online forum. Out on [archive](https://arxiv.org/abs/2102.06516)
+Oswald, L. & Bright, J. (2021). How do climate change skeptics engage with opposing views? Understanding mechanisms of social identity and cognitive dissonance in an online forum. Out on [arXiv](https://arxiv.org/abs/2102.06516)
 
 [See all publications](https://lfoswald.github.io/publication/)
 
@@ -26,10 +24,10 @@ Oswald, L. & Bright, J. (2021). How do climate change skeptics engage with oppos
 * Psychology of sustainable behavior, especially travel and transportation 
 * Climate change communication and climate change skepticism
 * Online opinion dynamics and political polarization
-* Technology acceptance and affinity for technology
-* Decision making under uncertainty 
-* Critical perspectives on techno-solutionism in "Smart Cities"
+* Conspiracy myths, extremism and online radicalization
+* Critical perspectives on data-driven solutions (e.g. in "Smart Cities), AI ethics
 * Risk perception and technology acceptance in the face of crisis (e.g. climate engineering or contact tracing)
+* Emergence of collective behaviour
 
 ### Please do reach out if you'd like to exchange ideas, if you are interested in collaborating on a project or simply, if you have questions!  
 Lisa
