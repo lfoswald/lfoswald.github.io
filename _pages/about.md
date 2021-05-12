@@ -27,5 +27,4 @@ Oswald, L. & Bright, J. (2021). How do climate change skeptics engage with oppos
 ### Please do reach out if you'd like to exchange ideas, explore collaborations or if you have questions!  
 Lisa
 
-*Computational social scientist - psychology, politics and the internet.* 
-
+<span style="color:blue">*Computational social scientist - psychology, politics and the internet.* </span>.
