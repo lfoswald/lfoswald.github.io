@@ -33,7 +33,7 @@ In case you still have too much time, here are some podcast and reading recommen
 
 ### Listen
 
-* Coping with the replication crisis in psychology (and more fun stuff) [Two psychologists for beers](https://www.fourbeers.com/) 🇨🇦
+* Coping with the replication crisis in psychology (and more fun stuff) [Two psychologists four beers](https://www.fourbeers.com/) 🇨🇦
 * Internet and politics from the OII [Skeptechs](https://oxpod.net/skeptechs/) 🇬🇧
 * Rap and politics [Machiavelli](https://www1.wdr.de/radio/cosmo/podcast/machiavelli/index.html) 🇩🇪
 
@@ -41,9 +41,9 @@ In case you still have too much time, here are some podcast and reading recommen
 ### Read 
 
 * New to computational social science? [Bit by Bit](https://www.bitbybitbook.com/)
-* Stuck with coming up with social science research questions? Methods of discovery (Andrew Abbot)
+* Stuck with coming up with social science research questions? [Methods of discovery](https://www.thalia.de/shop/home/artikeldetails/ID6792127.html)
 * Technology is not the solution to everyting? [The smart enough city](https://mitpress.mit.edu/books/smart-enough-city)
-* Psychology is not the solution to everyting? The quick fix
+* Psychology is not the solution to everyting? [The quick fix](https://www.thalia.de/shop/home/artikeldetails/ID149757965.html)
 * What's going on with the internet and US politics? [Breaking the social media prism](https://press.princeton.edu/books/hardcover/9780691203423/breaking-the-social-media-prism)
 * Why was climate change a problem again and since when do we know that? [Limits to growth](https://www.clubofrome.org/publication/the-limits-to-growth/)
 * Cities are more than a collection of buildings? Building and Dwelling - Ethics for the city
