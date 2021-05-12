@@ -31,10 +31,26 @@ ___
 
 In case you still have too much time, here are some podcast and reading recommendations.
 
-### Read 
-
 ### Listen
 
+English
+* Coping with the replication crisis in psychology (and more fun stuff) Two psychologists for beers
+* Internet and politics from the OII Skeptechs
+
+German
+* Weekly in-depth update on politics Lage der Nation
+* Rap and politics Machiavelli
 
 
+### Read 
 
+* New to computational social science? Bit by Bit
+* Stuck with coming up with social science research questions? Methods of discovery
+* Technology is not the solution to everyting? The smart enough city, to save everything click here, 
+* Psychology is not the solution to everyting? The quick fix
+* Does the internet destroy democracy? Breaking the social media prism
+* Why was climate change a problem again and since when do we know that? Limits to growth
+* Cities are more than a collection of buildings? Building and Dwelling - Ethics for the city
+* Why do we travel and does that make sense at all? The art of travel
+* Why is everyone talking about causal inference? The book of why
+* What does feminism has to to with data? Invisible women
