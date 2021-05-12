@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-*Computational social scientist: psychology, politics and the internet.* 
+*Computational social scientist - psychology, politics and the internet.* 
 
 # About
 
