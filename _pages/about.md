@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-*Computational social scientist - psychology, politics and the internet.* 
-
 # About
 
 I am a doctoral researcher at the Hertie School in Berlin. My research focuses on deliberation in online enviornments and the question of how the digital sphere influences democracy. While the attention economy, algorithmic curation and social network dynamics of online platforms can be a threat to democracy, I am interested in how the internet's potential can be used to ameliorate democratic discourse among a diverse citizenship to develop a livable, sustainable and just future. 
@@ -17,14 +15,17 @@ I graduated from the University of Oxford, UK, with a MSc degree in Social Data 
 
 I am futher interested in 
 * The public perception of climate change, the psychology of sustainable behavior and the effects of science communication. 
-* Political opinion dynamics, including political polarization, conspiracy myths and online extremism.  
-* The interplay of humans and technology, especially risk perception and technology acceptance in the face of crises (see climate engineering and Covid contact tracing) 
-* Critical perspectives on technological solutions to social problems, for example in the context of "Smart Cities" and AI.
+* Political opinion dynamics, political polarization, conspiracy myths and online extremism.  
+* The interplay of humans and technology, especially risk perception and technology acceptance in the face of crises (climate engineering and contact tracing). 
+* Critical perspectives on technological solutions to social problems ("Smart Cities" and AI).
 
 ## Most recent work
 Oswald, L. & Bright, J. (2021). How do climate change skeptics engage with opposing views? Understanding mechanisms of social identity and cognitive dissonance in an online forum. Out on [arXiv](https://arxiv.org/abs/2102.06516)
 
 [See all publications](https://lfoswald.github.io/publication/)
 
-#### Please do reach out if you'd like to exchange ideas, explore collaborations or if you have questions!  
+### Please do reach out if you'd like to exchange ideas, explore collaborations or if you have questions!  
 Lisa
+
+*Computational social scientist - psychology, politics and the internet.* 
+
