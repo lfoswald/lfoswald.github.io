@@ -2,17 +2,14 @@
 
 main:
   - title: "Publications"
-    url: /publication/
-    
-  - title: "CV"
-    url: /cv/
+    url: /publication/  
     
   - title: "Teaching"
     url: /teaching/
     
-#  - title: "Teaching2"
-#    url: https://lfoswald.github.io/2021-spring-stats2/    
-    
+  - title: "CV"
+    url: /cv/
+ 
   #- title: "Reading"
   #  url: /readings/
   
@@ -20,5 +17,6 @@ main:
     url: /contact/
     
   - title: "Nerd"
-    url: https://oswald.shinyapps.io/hogwartshouses/
+    url: /nerd/
+    #url: https://oswald.shinyapps.io/hogwartshouses/
           
