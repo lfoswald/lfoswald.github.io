@@ -53,14 +53,14 @@ Research Assistant, University of Kassel, department of Psychology, Psychology o
 
 ### AWARDS AND SCHOLARSHIPS
 
-Highly commended thesis 2020, Oxford Internet Institute
+Highly commended thesis 2020, [Oxford Internet Institute](https://www.oii.ox.ac.uk/blog/introducing-the-2020-oii-msc-thesis-prize-winners/)
 
-* Prize awarded for my MSc thesis in Social Data Science (Should we talk to climate skeptics?), [annual award](https://www.oii.ox.ac.uk/blog/introducing-the-2020-oii-msc-thesis-prize-winners/).
+* Prize awarded for my MSc thesis in Social Data Science (Should we talk to climate skeptics?), annual award.
 
-Carl-Friedrich Graumann Award, German Psychological Society (DGPs), Section Environmental Psychology (2018)
+Carl-Friedrich Graumann Award, [German Psychological Society (DGPs), Section Environmental Psychology](https://fachgruppe-umweltpsychologie.de/ehrungen-preise/c-f-graumann-preistraeger/#:~:text=Graumann%2DPreis%20wird%20im%20Rahmen,Das%20Preisgeld%20betr%C3%A4gt%20%E2%82%AC%20500.) (2018)
 
 * Honouring my bachelor thesis (Outdoor Sport and Environmental behavior) as best newcomer
-scientist work in the field of environmental psychology, [bi-annual award](https://fachgruppe-umweltpsychologie.de/ehrungen-preise/c-f-graumann-preistraeger/#:~:text=Graumann%2DPreis%20wird%20im%20Rahmen,Das%20Preisgeld%20betr%C3%A4gt%20%E2%82%AC%20500.).
+scientist work in the field of environmental psychology, bi-annual award.
 
 Scholarship, German Academic National Foundation ([Studienstiftung des Deutschen Volkes](https://www.studienstiftung.de/)) (2016-2020)
 
