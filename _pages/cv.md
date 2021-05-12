@@ -12,7 +12,7 @@ redirect_from:
 
 ### EDUCATION
 
-PhD Political Science, Hertie School, Berlin, [Doctoral Program in Governance](https://www.hertie-school.org/en/docgov) (2020-2023)
+PhD Political Science, Hertie School, Berlin, [Doctoral Program in Governance](https://www.hertie-school.org/en/docgov){:target="_blank"} (2020-2023)
 
 * Research focus: Psychological perspectives on democratic deliberation in online environments using empirical social data science approaches in collaboration with the [Data Science Lab](https://www.hertie-school.org/en/datasciencelab) at the Hertie School
 
@@ -30,11 +30,11 @@ BSc. Psychology, University of Kassel (2013-2016)
 
 ### WORK EXPERIENCE
 
-Teaching Assistant, Hertie School, Statistical Modeling & Causal Inference (2021-now)
+Teaching Assistant, Hertie School, [Statistical Modeling & Causal Inference](https://www.hertie-school.org/en/study/course-catalogue/course/course/statistics-ii-foundations-statistical-estimation-and-identification) (2021-now)
 
 * Teaching groups of MSc students (MSc in public policy), I revised the topics presented in the lecture on statistical modeling and causal inference and demonstrated practical applications of the methods to real-life data sets in R. Teaching assistant to Prof. Simon Munzert.
 
-Research Consultant, Hertie School, Data Science Lab (2020-2021)
+Research Consultant, Hertie School, [Data Science Lab](https://www.hertie-school.org/en/datasciencelab/research-consulting) (2020-2021)
 
 * Providing help and advice on methodological and technical issues that appear in the course of students’ research, e.g. questions of research design, quantitative measurement, statistical inference and computational tools.
  
@@ -70,7 +70,7 @@ Scholarship, German Academic National Foundation ([Studienstiftung des Deutschen
 ### VOLUNTEER EXPERIENCE
 
 * Seminar Organization, Network Analysis for Sustainable Development (2019-2020)
-* Elected Student Representative, Graduate Center for Environmental Studies and Teaching (GradZ), University of Kassel (2018-2019)
+* Elected Student Representative, Graduate Center for Environmental Studies and Teaching ([GradZ](https://www.uni-kassel.de/forschung/gradz/start)), University of Kassel (2018-2019)
 * Seminar Organization, Artificial Intelligence and Society (2018-2019)
 * Seminar Organization, Sustainability Scenario Modelling (2017-2018)
 * Elected Student Representative, Directorate, Department of Psychology, University of Kassel (2017-2018)
