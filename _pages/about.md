@@ -20,9 +20,9 @@ I graduated from the University of Oxford, UK, with a MSc degree in Social Data 
 * Critical perspectives on technological solutions to social problems (e.g. "Smart Cities" and AI).
 
 ## Most recent work
-Oswald, L. & Bright, J. (2021). How do climate change skeptics engage with opposing views? Understanding mechanisms of social identity and cognitive dissonance in an online forum. Out on [arXiv](https://arxiv.org/abs/2102.06516)
+Oswald, L. & Bright, J. (2021). How do climate change skeptics engage with opposing views? Understanding mechanisms of social identity and cognitive dissonance in an online forum. Out on [arXiv](https://arxiv.org/abs/2102.06516){:target="_blank"}
 
-[See all publications](https://lfoswald.github.io/publication/)
+[See all publications](https://lfoswald.github.io/publication/){:target="_blank"}
 
 ### Please do reach out if you'd like to exchange ideas, explore collaborations or if you have questions!  
 Lisa
