@@ -33,23 +33,19 @@ In case you still have too much time, here are some podcast and reading recommen
 
 ### Listen
 
-English
-* Coping with the replication crisis in psychology (and more fun stuff) Two psychologists for beers
-* Internet and politics from the OII Skeptechs
-
-German
-* Weekly in-depth update on politics Lage der Nation
-* Rap and politics Machiavelli
+* Coping with the replication crisis in psychology (and more fun stuff) [Two psychologists for beers](https://www.fourbeers.com/) 🇨🇦
+* Internet and politics from the OII [Skeptechs](https://oxpod.net/skeptechs/) 🇬🇧
+* Rap and politics [Machiavelli](https://www1.wdr.de/radio/cosmo/podcast/machiavelli/index.html) 🇩🇪
 
 
 ### Read 
 
-* New to computational social science? Bit by Bit
-* Stuck with coming up with social science research questions? Methods of discovery
-* Technology is not the solution to everyting? The smart enough city, to save everything click here, 
+* New to computational social science? [Bit by Bit](https://www.bitbybitbook.com/)
+* Stuck with coming up with social science research questions? Methods of discovery (Andrew Abbot)
+* Technology is not the solution to everyting? [The smart enough city](https://mitpress.mit.edu/books/smart-enough-city)
 * Psychology is not the solution to everyting? The quick fix
-* Does the internet destroy democracy? Breaking the social media prism
-* Why was climate change a problem again and since when do we know that? Limits to growth
+* What's going on with the internet and US politics? [Breaking the social media prism](https://press.princeton.edu/books/hardcover/9780691203423/breaking-the-social-media-prism)
+* Why was climate change a problem again and since when do we know that? [Limits to growth](https://www.clubofrome.org/publication/the-limits-to-growth/)
 * Cities are more than a collection of buildings? Building and Dwelling - Ethics for the city
 * Why do we travel and does that make sense at all? The art of travel
 * Why is everyone talking about causal inference? The book of why
