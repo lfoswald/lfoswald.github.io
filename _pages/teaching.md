@@ -9,6 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+### 🎒 Introduction to Data Science
+
+* Fall 2021
+* Teaching language: English
+* Program: MSc Data Science for Public Policy at the Hertie School, Berlin
+* Teaching Assistant to Prof. Simon Munzert
+
+The course is currently running and the materials are updated continuously.
+
+**Access all materials [here](https://github.com/intro-to-data-science-21/labs){:target="_blank"}!**
 
 
 ### 🎒 Statistical Modeling & Causal Inference
