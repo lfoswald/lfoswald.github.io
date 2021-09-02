@@ -18,8 +18,7 @@ redirect_from:
 
 The course is currently running and the materials are updated continuously.
 
-**Access all materials <br>
-[here](https://github.com/intro-to-data-science-21/labs){:target="_blank"}!**
+**Access all materials [here](https://github.com/intro-to-data-science-21/labs){:target="_blank"}!**
 
 
 ### 🎒 Statistical Modeling & Causal Inference
