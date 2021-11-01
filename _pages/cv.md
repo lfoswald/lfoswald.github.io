@@ -30,22 +30,22 @@ BSc. Psychology, University of Kassel (2013-2016)
 
 ### WORK EXPERIENCE
 
-Teaching Assistant, Hertie School, [Introduction to Data Science](https://github.com/intro-to-data-science-21){:target="_blank"} (Fall 2021)
+* Teaching Assistant, Hertie School, [Introduction to Data Science](https://github.com/intro-to-data-science-21){:target="_blank"} (Fall 2021)
 
-Teaching Assistant, Hertie School, [Statistical Modeling & Causal Inference](https://www.hertie-school.org/en/study/course-catalogue/course/course/statistics-ii-foundations-statistical-estimation-and-identification){:target="_blank"} (Spring 2021)
+* Teaching Assistant, Hertie School, [Statistical Modeling & Causal Inference](https://www.hertie-school.org/en/study/course-catalogue/course/course/statistics-ii-foundations-statistical-estimation-and-identification){:target="_blank"} (Spring 2021)
 
-Research Consultant, Hertie School, [Data Science Lab](https://www.hertie-school.org/en/datasciencelab/research-consulting){:target="_blank"} (2020-2021)
+* Research Consultant, Hertie School, [Data Science Lab](https://www.hertie-school.org/en/datasciencelab/research-consulting){:target="_blank"} (2020-2021)
 
-Research Assistant, [Center for Environmental Systems Research (CESR)](https://www.uni-kassel.de/einrichtungen/en/cesr/the-cesr.html){:target="_blank"} (2017-2019)
+* Research Assistant, [Center for Environmental Systems Research (CESR)](https://www.uni-kassel.de/einrichtungen/en/cesr/the-cesr.html){:target="_blank"} (2017-2019)
 
-Teaching Assistant, University of Kassel, Department of Psychology (2014-2016) - Quantitative Methods I and II
+* Teaching Assistant, University of Kassel, Department of Psychology (2014-2016) - Quantitative Methods I and II
 
-Research Assistant, University of Kassel, department of Psychology, Psychology of Memory (2014-2016)
+* Research Assistant, University of Kassel, department of Psychology, Psychology of Memory (2014-2016)
 
 
 ### AWARDS AND SCHOLARSHIPS
 
-Doctoral Scholarship, German Academic National Foundation ([Promotionsförderung, Studienstiftung des Deutschen Volkes](https://www.studienstiftung.de/infos-fuer-promovierende/promotionsfoerderung-der-studienstiftung/){:target="_blank"}) (2016-2020)
+Doctoral Scholarship, German Academic National Foundation ([Promotionsförderung, Studienstiftung des Deutschen Volkes](https://www.studienstiftung.de/infos-fuer-promovierende/promotionsfoerderung-der-studienstiftung/){:target="_blank"}) (2021-2023)
 
 Highly commended thesis 2020, [Oxford Internet Institute](https://www.oii.ox.ac.uk/blog/introducing-the-2020-oii-msc-thesis-prize-winners/){:target="_blank"}
 
