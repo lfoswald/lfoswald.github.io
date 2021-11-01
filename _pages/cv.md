@@ -14,7 +14,7 @@ redirect_from:
 
 PhD Political Science, Hertie School, Berlin, [Doctoral Program in Governance](https://www.hertie-school.org/en/docgov){:target="_blank"} (2020-2023)
 
-* Research focus: Psychological perspectives on democratic deliberation in online environments using empirical social data science approaches in collaboration with the [Data Science Lab](https://www.hertie-school.org/en/datasciencelab){:target="_blank"} at the Hertie School
+* Research focus: Deliberation in online environments using computational social science approaches in collaboration with the [Data Science Lab](https://www.hertie-school.org/en/datasciencelab){:target="_blank"} at the Hertie School
 
 MSc. Social Data Science, University of Oxford (2019-2020)
 
@@ -30,28 +30,22 @@ BSc. Psychology, University of Kassel (2013-2016)
 
 ### WORK EXPERIENCE
 
-Teaching Assistant, Hertie School, [Statistical Modeling & Causal Inference](https://www.hertie-school.org/en/study/course-catalogue/course/course/statistics-ii-foundations-statistical-estimation-and-identification){:target="_blank"} (2021-now)
+Teaching Assistant, Hertie School, [Introduction to Data Science](https://github.com/intro-to-data-science-21){:target="_blank"} (Fall 2021)
 
-* Teaching groups of MSc students (MSc in public policy), I revised the topics presented in the lecture on statistical modeling and causal inference and demonstrated practical applications of the methods to real-life data sets in R. Teaching assistant to Prof. Simon Munzert.
+Teaching Assistant, Hertie School, [Statistical Modeling & Causal Inference](https://www.hertie-school.org/en/study/course-catalogue/course/course/statistics-ii-foundations-statistical-estimation-and-identification){:target="_blank"} (Spring 2021)
 
 Research Consultant, Hertie School, [Data Science Lab](https://www.hertie-school.org/en/datasciencelab/research-consulting){:target="_blank"} (2020-2021)
 
-* Providing help and advice on methodological and technical issues that appear in the course of students’ research, e.g. questions of research design, quantitative measurement, statistical inference and computational tools.
- 
 Research Assistant, [Center for Environmental Systems Research (CESR)](https://www.uni-kassel.de/einrichtungen/en/cesr/the-cesr.html){:target="_blank"} (2017-2019)
 
-* Within the DFG funded [TOMACE](https://gepris.dfg.de/gepris/projekt/311117145?language=en){:target="_blank"} project (Trade Offs between Mitigation and Climate Engineering) we analyzed the public attitude towards solar radiation management. My focus was on psychological test construction and data analysis and visualization using RStudio. The project was embedded in the [SESAM](https://www.uni-kassel.de/einrichtungen/en/cesr/research/groups/sesam.html){:target="_blank"} group (Socio-environmental Systems Analysis and Modelling).
-
-Teaching Assistant, University of Kassel, Department of Psychology (2014-2016)
-
-* Teaching groups of 30-40 undergraduate students, I deepened the topics presented in the Quantitative Methods I and II lectures. Teaching assistant to Dr. Isabel Lindner.
+Teaching Assistant, University of Kassel, Department of Psychology (2014-2016) - Quantitative Methods I and II
 
 Research Assistant, University of Kassel, department of Psychology, Psychology of Memory (2014-2016)
 
-* Within a project on false memories, I tested individuals in the laboratory. Student research assistant to Dr. Isabel Lindner.
-
 
 ### AWARDS AND SCHOLARSHIPS
+
+Doctoral Scholarship, German Academic National Foundation ([Promotionsförderung, Studienstiftung des Deutschen Volkes](https://www.studienstiftung.de/infos-fuer-promovierende/promotionsfoerderung-der-studienstiftung/){:target="_blank"}) (2016-2020)
 
 Highly commended thesis 2020, [Oxford Internet Institute](https://www.oii.ox.ac.uk/blog/introducing-the-2020-oii-msc-thesis-prize-winners/){:target="_blank"}
 
