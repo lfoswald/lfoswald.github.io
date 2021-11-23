@@ -13,6 +13,8 @@ redirect_from:
 
 ### Preprints
 
+Lorenz-Spreen, P., Oswald, L., Lewandowsky, S., & Hertwig, R. (2021). Digital Media and Democracy: A Systematic Review of Causal and Correlational Evidence Worldwide. Out on [SocArXiv](https://osf.io/preprints/socarxiv/p3z9v){:target="_blank"}
+
 Oswald, L. & Bright, J. (2021). How do climate change skeptics engage with opposing views? Understanding mechanisms of social identity and cognitive dissonance in an online forum. Out on [arxiv](https://arxiv.org/abs/2102.06516){:target="_blank"}
 
 ### Peer-reviewed papers
