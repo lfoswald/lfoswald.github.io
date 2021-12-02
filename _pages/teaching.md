@@ -18,6 +18,18 @@ redirect_from:
 
 The course is currently running and the materials are updated continuously.
 
+**Topics covered:** 
+1. [Base R basics and best practice](https://raw.githack.com/intro-to-data-science-21/labs/main/session-1-intro/1-intro.html) 
+2. [Version control and project management with GitHub](https://raw.githack.com/intro-to-data-science-21/labs/main/session-2-version-control/2-git.html) 
+3. [Tidyverse](https://raw.githack.com/intro-to-data-science-21/labs/main/session-3-tidyverse/3-tidyverse.html)
+4. [Functions, iteration and data bases](https://raw.githack.com/intro-to-data-science-21/labs/main/session-4-databases/4-databases.html)
+5. [Web scraping with R](https://raw.githack.com/intro-to-data-science-21/labs/main/session-5-web-scraping/5-web-scraping.html)
+6. [Modelling](https://raw.githack.com/intro-to-data-science-21/labs/main/session-6-modelling/6-modelling.html)
+7. [Visualization](https://raw.githack.com/intro-to-data-science-21/labs/main/session-7-visualization/7-visualization.html) 
+8. [Working with the Shell](https://raw.githack.com/intro-to-data-science-21/labs/main/session-8-shell/8-shell.html) 
+9. [Debugging and Packaging](https://raw.githack.com/intro-to-data-science-21/labs/main/session-9-debugging/9-debugging.html) 
+10. [Interactive Web Applications with Shiny](https://raw.githack.com/intro-to-data-science-21/labs/main/session-10-shiny/10-shiny.html)
+
 **Access all materials [here](https://github.com/intro-to-data-science-21/labs){:target="_blank"}!**
 
 
