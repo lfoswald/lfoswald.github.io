@@ -15,7 +15,7 @@ redirect_from:
 
 Lorenz-Spreen, P., Oswald, L., Lewandowsky, S., & Hertwig, R. (2021). Digital Media and Democracy: A Systematic Review of Causal and Correlational Evidence Worldwide. Out on [SocArXiv](https://osf.io/preprints/socarxiv/p3z9v){:target="_blank"}
 
-[Twitter summary](https://twitter.com/LisaFOswaldo/status/1463140731317538824){:target="_blank"}
+[Twitter summary](https://twitter.com/LisaFOswaldo/status/1463140731317538824){:target="_blank"},
 [Media feature](https://techpolicy.press/cause-for-concern-on-role-of-digital-media-in-decline-of-democracy/){:target="_blank"}
 
 
