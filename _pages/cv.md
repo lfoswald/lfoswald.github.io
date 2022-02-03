@@ -32,7 +32,7 @@ BSc. Psychology, University of Kassel (2013-2016)
 
 * Teaching Assistant, Hertie School, [Introduction to Data Science](https://github.com/intro-to-data-science-21){:target="_blank"} (Fall 2021)
 
-* Teaching Assistant, Hertie School, [Statistical Modeling & Causal Inference](https://www.hertie-school.org/en/study/course-catalogue/course/course/statistics-ii-foundations-statistical-estimation-and-identification){:target="_blank"} (Spring 2021)
+* Teaching Assistant, Hertie School, [Statistical Modeling & Causal Inference](https://www.hertie-school.org/en/study/course-catalogue/course/course/statistics-ii-foundations-statistical-estimation-and-identification){:target="_blank"} (Spring 2021, Spring 2022)
 
 * Research Consultant, Hertie School, [Data Science Lab](https://www.hertie-school.org/en/datasciencelab/research-consulting){:target="_blank"} (2020-2021)
 
@@ -63,6 +63,7 @@ Scholarship, German Academic National Foundation ([Studienstiftung des Deutschen
 
 ### VOLUNTEER EXPERIENCE
 
+* Elected PhD Representative, Hertie School, Berlin (AY 2022)
 * Seminar Organization, Network Analysis for Sustainable Development (2019-2020)
 * Elected Student Representative, Graduate Center for Environmental Studies and Teaching ([GradZ](https://www.uni-kassel.de/forschung/gradz/start){:target="_blank"}), University of Kassel (2018-2019)
 * Seminar Organization, Artificial Intelligence and Society (2018-2019)
