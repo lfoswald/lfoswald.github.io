@@ -9,14 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
+### 🎒 Introduction to R Workshop
+
+* Spring 2022, two-day (6h) workshop
+* Teaching language: English
+* Program: MSc Public Policy and MSc International Affairs at the Hertie School, Berlin
+* Teaching Assistant to Prof. Simon Munzert
+
+[**Day 1 - Base R Basics**](https://raw.githack.com/lfoswald/R-workshop/main/primer-1-basics/1-basics.html)
+Covering data types and structures in R, the RStudio interface, arithmetic and logical operators in R, vector operations, working with data frames, saving data, handling errors, missing data, and a note on best practices (script structure, naming conventions, repetition etc.)
+
+[**Day 2 - Tidyverse**](https://raw.githack.com/lfoswald/R-workshop/main/primer-2-tidyverse/2-tidyverse.html) 
+Covering tidy data, the pipe operator and tidyverse syntax, data manipulation with dplyr, joins in dplyr, pivoting in tidyr, data cleaning with tidyr, data visualization with ggplot2, basics of functions, iteration, and functionals with purrr
+
+
 ### 🎒 Introduction to Data Science
 
 * Fall 2021
 * Teaching language: English
 * Program: MSc Data Science for Public Policy at the Hertie School, Berlin
 * Teaching Assistant to Prof. Simon Munzert
-
-The course is currently running and the materials are updated continuously.
 
 **Topics covered:** [Base R basics and best practice](https://raw.githack.com/intro-to-data-science-21/labs/main/session-1-intro/1-intro.html){:target="_blank"}, [Version control and project management with GitHub](https://raw.githack.com/intro-to-data-science-21/labs/main/session-2-version-control/2-git.html){:target="_blank"}, [Tidyverse](https://raw.githack.com/intro-to-data-science-21/labs/main/session-3-tidyverse/3-tidyverse.html){:target="_blank"}, [Functions, Iteration and Data bases](https://raw.githack.com/intro-to-data-science-21/labs/main/session-4-databases/4-databases.html){:target="_blank"}, [Web scraping with R](https://raw.githack.com/intro-to-data-science-21/labs/main/session-5-web-scraping/5-web-scraping.html){:target="_blank"}, [Modelling](https://raw.githack.com/intro-to-data-science-21/labs/main/session-6-modelling/6-modelling.html){:target="_blank"}, [Visualization](https://raw.githack.com/intro-to-data-science-21/labs/main/session-7-visualization/7-visualization.html){:target="_blank"}, [Working with the Shell](https://raw.githack.com/intro-to-data-science-21/labs/main/session-8-shell/8-shell.html){:target="_blank"}, [Debugging and Packaging](https://raw.githack.com/intro-to-data-science-21/labs/main/session-9-debugging/9-debugging.html){:target="_blank"}, [Interactive Web Applications with Shiny](https://raw.githack.com/intro-to-data-science-21/labs/main/session-10-shiny/10-shiny.html){:target="_blank"}
 
