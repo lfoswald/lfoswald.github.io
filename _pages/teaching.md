@@ -16,10 +16,10 @@ redirect_from:
 * Program: MSc Public Policy and MSc International Affairs at the Hertie School, Berlin
 * Teaching Assistant to Prof. Simon Munzert
 
-[**Day 1 - Base R Basics**](https://raw.githack.com/lfoswald/R-workshop/main/primer-1-basics/1-basics.html)
+[**Day 1 - Base R Basics**](https://raw.githack.com/lfoswald/R-workshop/main/primer-1-basics/1-basics.html){:target="_blank"}
 Covering data types and structures in R, the RStudio interface, arithmetic and logical operators in R, vector operations, working with data frames, saving data, handling errors, missing data, and a note on best practices (script structure, naming conventions, repetition etc.)
 
-[**Day 2 - Tidyverse**](https://raw.githack.com/lfoswald/R-workshop/main/primer-2-tidyverse/2-tidyverse.html) 
+[**Day 2 - Tidyverse**](https://raw.githack.com/lfoswald/R-workshop/main/primer-2-tidyverse/2-tidyverse.html){:target="_blank"}
 Covering tidy data, the pipe operator and tidyverse syntax, data manipulation with dplyr, joins in dplyr, pivoting in tidyr, data cleaning with tidyr, data visualization with ggplot2, basics of functions, iteration, and functionals with purrr
 
 
