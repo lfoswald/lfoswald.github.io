@@ -17,12 +17,12 @@ The cool thing about science is that you can have a lot of fun with it!
 ### Generative Art in R
 
 <p float="center">
-  <img src="../images/ga1.jpg" width="200" />
-  <img src="../images/ga2.jpg" width="200" /> 
-  <img src="../images/ga3.jpg" width="200" />
+  <img src="../images/ga1.jpg" width="300" />
+  <img src="../images/ga2.jpg" width="300" /> 
+  <img src="../images/ga3.jpg" width="300" />
 </p>
 
-If you haven't done so yet, I highly recommend experimenting with [Katharina Brunner's](https://katharinabrunner.de/generativeart/) generative art package in R.
+If you haven't done so yet, I highly recommend experimenting with [Katharina Brunner's](https://katharinabrunner.de/generativeart/){:target="_blank"} generative art package in R!
 
 ### Wizarding School House Sorting Test 
 
