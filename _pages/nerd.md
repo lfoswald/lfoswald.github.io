@@ -33,6 +33,7 @@ ___
   <img src="../images/ga1.jpg" width="200" />
   <img src="../images/ga2.jpg" width="200" /> 
   <img src="../images/ga3.jpg" width="200" />
+  <br>
   <img src="../images/ga4.jpg" width="200" />
   <img src="../images/ga5.jpg" width="200" /> 
   <img src="../images/ga6.jpg" width="200" />
