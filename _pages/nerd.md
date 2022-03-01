@@ -14,21 +14,6 @@ redirect_from:
 
 The cool thing about science is that you can have a lot of fun with it!
 
-### Generative Art in R
-
-<p float="center">
-  <img src="../images/ga1.jpg" width="200" />
-  <img src="../images/ga2.jpg" width="200" /> 
-  <img src="../images/ga3.jpg" width="200" />
-</p>
-<p float="center">
-  <img src="../images/ga4.jpg" width="200" />
-  <img src="../images/ga5.jpg" width="200" /> 
-  <img src="../images/ga6.jpg" width="200" />
-</p>
-
-If you haven't done so yet, I highly recommend experimenting with [Katharina Brunner's](https://katharinabrunner.de/2018/11/generative-art-many-thousands-points-can-form-beautiful-images/){:target="_blank"} generative art package in R! Shapes are created by transforming the coordinates of points with sinus and cosinus fuctions, for example. 
-
 ### Wizarding School House Sorting Test 
 
 ... some time ago, in an MSc Psychology course on Psychometrics, four friends and I were told that, as assignment for the course, we could basically construct any psychological test we're interested in. Really any construct? Sure. 
@@ -40,6 +25,20 @@ In case you have further question, take a look at the [code](https://github.com/
 
 [Take the test and find out your house!](https://oswald.shinyapps.io/hogwartshouses/){:target="_blank"} 🦉
 
+___
+
+### Generative Art in R
+
+<p float="left">
+  <img src="../images/ga1.jpg" width="200" />
+  <img src="../images/ga2.jpg" width="200" /> 
+  <img src="../images/ga3.jpg" width="200" />
+  <img src="../images/ga4.jpg" width="200" />
+  <img src="../images/ga5.jpg" width="200" /> 
+  <img src="../images/ga6.jpg" width="200" />
+</p>
+
+If you haven't done so yet, I highly recommend experimenting with [Katharina Brunner's](https://katharinabrunner.de/2018/11/generative-art-many-thousands-points-can-form-beautiful-images/){:target="_blank"} generative art package in R! Shapes are created by transforming the coordinates of points with sinus and cosinus fuctions, for example. 
 
 ___
 
