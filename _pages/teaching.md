@@ -14,7 +14,6 @@ redirect_from:
 * Spring 2022, two-day (6h) workshop
 * Teaching language: English
 * Program: MSc Public Policy and MSc International Affairs at the Hertie School, Berlin
-* Teaching Assistant to Prof. Simon Munzert
 
 [**Day 1 - Base R Basics**](https://raw.githack.com/lfoswald/R-workshop/main/primer-1-basics/1-basics.html){:target="_blank"}
 Covering data types and structures in R, the RStudio interface, arithmetic and logical operators in R, vector operations, working with data frames, saving data, handling errors, missing data, and a note on best practices (script structure, naming conventions, repetition etc.)
@@ -34,6 +33,7 @@ Covering tidy data, the pipe operator and tidyverse syntax, data manipulation wi
 
 **Access all materials [here](https://github.com/intro-to-data-science-21/labs){:target="_blank"}!**
 
+** 🛠 Tools for Data Science Workshop** A range of topics that were not covered in class (e.g. geospatial data, network data, text analysis, etc.) were subjects of our Tools for Data Science Workshop. Find the workshop website, including all materials [here](https://intro-to-data-science-21-workshop.github.io/){:target="_blank"}!.
 
 ### 🎒 Statistical Modeling & Causal Inference
 
