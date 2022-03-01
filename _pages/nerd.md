@@ -22,6 +22,8 @@ The cool thing about science is that you can have a lot of fun with it!
   <img src="../images/ga3.jpg" width="200" />
 </p>
 
+If you haven't done so yet, I highly recommend experimenting with [Katharina Brunner's](https://katharinabrunner.de/generativeart/) generative art package in R.
+
 ### Wizarding School House Sorting Test 
 
 ... some time ago, in an MSc Psychology course on Psychometrics, four friends and I were told that, as assignment for the course, we could basically construct any psychological test we're interested in. Really any construct? Sure. 
