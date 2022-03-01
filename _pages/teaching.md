@@ -33,7 +33,7 @@ Covering tidy data, the pipe operator and tidyverse syntax, data manipulation wi
 
 **Access all materials [here](https://github.com/intro-to-data-science-21/labs){:target="_blank"}!**
 
-** 🛠 Tools for Data Science Workshop** A range of topics that were not covered in class (e.g. geospatial data, network data, text analysis, etc.) were subjects of our Tools for Data Science Workshop. Find the workshop website, including all materials [here](https://intro-to-data-science-21-workshop.github.io/){:target="_blank"}!.
+🛠 **Tools for Data Science Workshop** A range of topics that were not covered in class (e.g. geospatial data, network data, text analysis, etc.) were subjects of our Tools for Data Science Workshop. Find the workshop website, including all materials [here](https://intro-to-data-science-21-workshop.github.io/){:target="_blank"}!.
 
 ### 🎒 Statistical Modeling & Causal Inference
 
