@@ -21,6 +21,11 @@ The cool thing about science is that you can have a lot of fun with it!
   <img src="../images/ga2.jpg" width="200" /> 
   <img src="../images/ga3.jpg" width="200" />
 </p>
+<p float="center">
+  <img src="../images/ga4.jpg" width="200" />
+  <img src="../images/ga5.jpg" width="200" /> 
+  <img src="../images/ga6.jpg" width="200" />
+</p>
 
 If you haven't done so yet, I highly recommend experimenting with [Katharina Brunner's](https://katharinabrunner.de/2018/11/generative-art-many-thousands-points-can-form-beautiful-images/){:target="_blank"} generative art package in R! Shapes are created by transforming the coordinates of points with sinus and cosinus fuctions, for example. 
 
