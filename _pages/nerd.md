@@ -14,6 +14,13 @@ redirect_from:
 
 The cool thing about science is that you can have a lot of fun with it!
 
+### Generative Art in R
+
+<p float="left">
+  <img src="../images/ga1.jpg" width="100" />
+  <img src="../images/ga2.jpg" width="100" /> 
+  <img src="../images/ga3.jpg" width="100" />
+</p>
 
 ### Wizarding School House Sorting Test 
 
