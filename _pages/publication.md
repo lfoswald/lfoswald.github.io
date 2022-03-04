@@ -29,9 +29,8 @@ Oswald, L. & Bright, J. (2021). How do climate change skeptics engage with oppos
 Klaus, G., Oswald, L., Ernst, A., & Merk, C. (2021). Effects of opinion statements on laypeople’s acceptance of a climate engineering technology. Comparing the source credibility of researchers, politicians and a citizens’ jury. Journal of Science Communication, DOI: 10.22323/2.20010203 [Find paper here](https://jcom.sissa.it/archive/20/01/JCOM_2001_2021_A03){:target="_blank"}
 
 Oswald, L., & Ernst, A. (2020). Flying in the Face of Climate Change: Quantitative psychological approach examining the social drivers of individual air travel, Journal of Sustainable Tourism, DOI: 10.1080/09669582.2020.1812616
-[Find paper here](https://www.tandfonline.com/doi/full/10.1080/09669582.2020.1812616){:target="_blank"}
-and get free access with this [free eprint link](https://www.tandfonline.com/eprint/HHT88G9HSMFPMRB5UWP3/full?target=10.1080/09669582.2020.1812616){:target="_blank"}
+[get paper](https://www.tandfonline.com/doi/full/10.1080/09669582.2020.1812616){:target="_blank"},[preprint](../files/Oswald_Ernst_2020.pdf){:target="_blank"}
 
 Klaus, G., Ernst, A., & Oswald, L. (2020). Psychological factors influencing laypersons’ acceptance of climate engineering, climate change mitigation and business as usual scenarios. Technology in Society, 60, 101222.
-[Find paper here](https://www.sciencedirect.com/science/article/pii/S0160791X1930137X){:target="_blank"}
+[get paper](https://www.sciencedirect.com/science/article/pii/S0160791X1930137X){:target="_blank"}
 
