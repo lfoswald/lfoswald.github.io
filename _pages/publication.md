@@ -15,9 +15,9 @@ redirect_from:
 
 Lorenz-Spreen, P., Oswald, L., Lewandowsky, S., & Hertwig, R. (2021). Digital Media and Democracy: A Systematic Review of Causal and Correlational Evidence Worldwide. Out on [SocArXiv](https://osf.io/preprints/socarxiv/p3z9v){:target="_blank"}
 
-[Twitter summary](https://twitter.com/LisaFOswaldo/status/1463140731317538824){:target="_blank"} &
-[media feature](https://techpolicy.press/cause-for-concern-on-role-of-digital-media-in-decline-of-democracy/){:target="_blank"}
-
+[Twitter summary](https://twitter.com/LisaFOswaldo/status/1463140731317538824){:target="_blank"},
+[The Atlantic feature](https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/?utm_source=newsletter&utm_medium=email&utm_campaign=atlantic-daily-newsletter&utm_content=20220411&utm_term=The%20Atlantic%20Daily){:target="_blank"},
+[Techpolicy feature](https://techpolicy.press/cause-for-concern-on-role-of-digital-media-in-decline-of-democracy/){:target="_blank"}
 
 Oswald, L. & Bright, J. (2021). How do climate change skeptics engage with opposing views? Understanding mechanisms of social identity and cognitive dissonance in an online forum. Out on [arxiv](https://arxiv.org/abs/2102.06516){:target="_blank"}
 
