@@ -25,9 +25,7 @@ Lorenz-Spreen, P., Oswald, L., Lewandowsky, S., & Hertwig, R. (2021). Digital Me
 
 ### Peer-reviewed papers
 
-Oswald, L. & Bright, J. (2022). How do climate change skeptics engage with opposing views? Understanding mechanisms of social identity and cognitive dissonance in an online forum. Accepted for publication in Environmental Communication.
-
-Preprint on [arxiv](https://arxiv.org/abs/2102.06516){:target="_blank"}
+Oswald, L. & Bright, J. (2022). How do climate change skeptics engage with opposing views? Understanding mechanisms of social identity and cognitive dissonance in an online forum. Accepted for publication in Environmental Communication. Preprint on [arxiv](https://arxiv.org/abs/2102.06516){:target="_blank"}
 
 [Media feature](https://www.dailyadvent.com/news/491708f76749b23a3465195e9deaa09e-New-Draft-Paper-Confirms-Feeding-Trolls-Keeps-Them-Coming-Back-For-More){:target="_blank"}
 
