@@ -18,15 +18,15 @@ PhD Political Science, Hertie School, Berlin, [Doctoral Program in Governance](h
 
 MSc. Social Data Science, University of Oxford (2019-2020)
 
-* Interdisciplinary graduate program in [Social Data Science](https://www.ox.ac.uk/admissions/graduate/courses/msc-social-data-science){:target="_blank"}, based at the [Oxford Internet Institute](https://www.oii.ox.ac.uk/){:target="_blank"}, at the intersection between social science and computational science, with a practical focus on data analysis and programming with Python, Internet research and political science. Master thesis: Climate skeptic attitudes and communication in the face of opposing views on Reddit
+* Interdisciplinary graduate program in [Social Data Science](https://www.ox.ac.uk/admissions/graduate/courses/msc-social-data-science){:target="_blank"}, based at the [Oxford Internet Institute](https://www.oii.ox.ac.uk/){:target="_blank"}, at the intersection between social science and computational science, with a practical focus on data analysis and programming with Python, Internet research and political science. Master thesis: Climate skeptic attitudes and communication in the face of opposing views on Reddit [preprint](https://arxiv.org/abs/2102.06516){:target="_blank"}
 
 MSc. Psychology, [University of Kassel](https://www.uni-kassel.de/fb01/institute/institut-fuer-psychologie/){:target="_blank"} (2016-2019)
 
-* First major in Social and Environmental Psychology, second major in Clinical Psychology. Master thesis: Social Drivers of Individual Air Travel
+* First major in Social and Environmental Psychology, second major in Clinical Psychology. Master thesis: Social Drivers of Individual Air Travel [paper](https://www.tandfonline.com/doi/full/10.1080/09669582.2020.1812616){:target="_blank"}
 
 BSc. Psychology, University of Kassel (2013-2016)
 
-* Bachelor thesis in Environmental Psychology: Outdoor Sport and Environmental Behavior. Presentation of thesis at the AASP Conference in Toronto, 2018.
+* Bachelor thesis in Environmental Psychology: Outdoor Sport and Environmental Behavior. Presentation at the AASP Conference in Toronto, 2018.
 
 ### WORK EXPERIENCE
 
@@ -38,9 +38,9 @@ BSc. Psychology, University of Kassel (2013-2016)
 
 * Research Assistant, [Center for Environmental Systems Research (CESR)](https://www.uni-kassel.de/einrichtungen/en/cesr/the-cesr.html){:target="_blank"} (2017-2019)
 
-* Teaching Assistant, University of Kassel, Department of Psychology (2014-2016) - Quantitative Methods I and II
+* Teaching Assistant, University of Kassel, Department of Psychology, Quantitative Methods I and II (Spring 2015, Fall 2015, Spring 2016)
 
-* Research Assistant, University of Kassel, department of Psychology, Psychology of Memory (2014-2016)
+* Research Assistant, University of Kassel, department of Psychology, Psychology of Memory (2014-2015)
 
 
 ### AWARDS AND SCHOLARSHIPS
