@@ -14,15 +14,15 @@ redirect_from:
 
 PhD Political Science, Hertie School, Berlin, [Doctoral Program in Governance](https://www.hertie-school.org/en/docgov){:target="_blank"} (2020-2023)
 
-* Research focus: Deliberation in online environments using computational social science approaches in collaboration with the [Data Science Lab](https://www.hertie-school.org/en/datasciencelab){:target="_blank"} at the Hertie School
+* Research focus: Deliberation in online environments using computational social science approaches at the [Data Science Lab](https://www.hertie-school.org/en/datasciencelab){:target="_blank"} at the Hertie School
 
 MSc. Social Data Science, University of Oxford (2019-2020)
 
-* Interdisciplinary graduate program in [Social Data Science](https://www.ox.ac.uk/admissions/graduate/courses/msc-social-data-science){:target="_blank"}, based at the [Oxford Internet Institute](https://www.oii.ox.ac.uk/){:target="_blank"}, at the intersection between social science and computational science, with a practical focus on data analysis and programming with Python, Internet research and political science. Master thesis: Climate skeptic attitudes and communication in the face of opposing views on Reddit [preprint](https://arxiv.org/abs/2102.06516){:target="_blank"}
+* Interdisciplinary graduate program in [Social Data Science](https://www.ox.ac.uk/admissions/graduate/courses/msc-social-data-science){:target="_blank"}, based at the [Oxford Internet Institute](https://www.oii.ox.ac.uk/){:target="_blank"}, at the intersection between social science and computational science, with a practical focus on data analysis and programming with Python, Internet research and political science. Master thesis: Climate skeptic attitudes and communication in the face of opposing views on Reddit [publication](https://www.tandfonline.com/doi/citedby/10.1080/17524032.2022.2071314?scroll=top&needAccess=true){:target="_blank"}
 
 MSc. Psychology, [University of Kassel](https://www.uni-kassel.de/fb01/institute/institut-fuer-psychologie/){:target="_blank"} (2016-2019)
 
-* First major in Social and Environmental Psychology, second major in Clinical Psychology. Master thesis: Social Drivers of Individual Air Travel [paper](https://www.tandfonline.com/doi/full/10.1080/09669582.2020.1812616){:target="_blank"}
+* First major in Social and Environmental Psychology, second major in Clinical Psychology. Master thesis: Social Drivers of Individual Air Travel [publication](https://www.tandfonline.com/doi/full/10.1080/09669582.2020.1812616){:target="_blank"}
 
 BSc. Psychology, University of Kassel (2013-2016)
 
@@ -30,7 +30,7 @@ BSc. Psychology, University of Kassel (2013-2016)
 
 ### WORK EXPERIENCE
 
-* Teaching Assistant, Hertie School, [Introduction to Data Science](https://github.com/intro-to-data-science-21){:target="_blank"} (Fall 2021)
+* Teaching Assistant, Hertie School, [Introduction to Data Science](https://github.com/intro-to-data-science-21){:target="_blank"} (Fall 2021, Fall 2022)
 
 * Teaching Assistant, Hertie School, [Statistical Modeling & Causal Inference](https://www.hertie-school.org/en/study/course-catalogue/course/course/statistics-ii-foundations-statistical-estimation-and-identification){:target="_blank"} (Spring 2021, Spring 2022)
 
