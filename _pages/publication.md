@@ -13,10 +13,11 @@ redirect_from:
 
 ### Preprints
 
+Oswald, L. (2022). More than News! Mapping the Deliberative Potential of Political Online Ecosystems with Digital Trace Data. [SocArXiv](https://osf.io/preprints/socarxiv/68udg/){:target="_blank"}
+
 Oswald, L. (2022). Automating the Analysis of Online Deliberation? Comparing computational analyses of polarized discussions on climate change to established content analysis. [SocArXiv](https://osf.io/preprints/socarxiv/qmzwx){:target="_blank"}, [Twitter summary](https://twitter.com/LisaFOswaldo/status/1524428414844907521){:target="_blank"}
 
 Lorenz-Spreen, P., Oswald, L., Lewandowsky, S., & Hertwig, R. (2021). Digital Media and Democracy: A Systematic Review of Causal and Correlational Evidence Worldwide. [SocArXiv](https://osf.io/preprints/socarxiv/p3z9v){:target="_blank"}, [Twitter summary](https://twitter.com/LisaFOswaldo/status/1463140731317538824){:target="_blank"}, popular press features in [The Atlantic](https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/?utm_source=newsletter&utm_medium=email&utm_campaign=atlantic-daily-newsletter&utm_content=20220411&utm_term=The%20Atlantic%20Daily){:target="_blank"}, [Techpolicy](https://techpolicy.press/cause-for-concern-on-role-of-digital-media-in-decline-of-democracy/){:target="_blank"}, [The New Yorker](https://www.newyorker.com/culture/annals-of-inquiry/we-know-less-about-social-media-than-we-think){:target="_blank"}, and [The New York Times](https://www.nytimes.com/2022/06/15/opinion/social-media-polarization-democracy.html){:target="_blank"}
-
 
 
 ### Peer-reviewed papers
