@@ -9,7 +9,7 @@ redirect_from:
 ---
 # About
 
-I am a doctoral researcher in computational social science at the Hertie School in Berlin. My research focuses on public deliberation in online enviornments and the role of digital media for democratic politics. While integrating psychological and political science perspectives, I aim to use digital trace data and online experiments to better understand social phenomena such as climate change skepticism, online hate speech and political polarization. 
+I am a doctoral researcher in the field of computational social science at the Hertie School in Berlin. My research focuses on public deliberation in online enviornments and the role of digital media for democratic politics. While integrating psychological and political science perspectives, I aim to use digital trace data and online experiments to better understand social phenomena such as climate change skepticism, online hate speech and political polarization. 
 
 I graduated from the University of Oxford, UK, with a MSc degree in Social Data Science, and from the University of Kassel, Germany, with a BSc and MSc degree in Psychology. I am currently working as a teaching assistant for the MSc courses "Introduction to Data Science" of the MSc in Data Science for Public Policy and for the course "Statistical Modeling & Causal Inference" of the policy analysis track at the Hertie School. I previously worked as a research consultant at the Hertie School's Data Science Lab and at the Center for Environmental Systems Research (CESR) in Kassel.
 
@@ -21,11 +21,13 @@ I graduated from the University of Oxford, UK, with a MSc degree in Social Data 
 
 ## Most recent work
 
+Oswald, L. (2022). More than News! Mapping the Deliberative Potential of Political Online Ecosystems with Digital Trace Data. [SocArXiv](https://osf.io/preprints/socarxiv/68udg/){:target="_blank"}
+
 Oswald, L. (2022). Automating the Analysis of Online Deliberation? Comparing computational analyses of polarized discussions on climate change to established content analysis. [SocArXiv](https://doi.org/10.31235/osf.io/qmzwx){:target="_blank"}
 
 Lorenz-Spreen, P., Oswald, L., Lewandowsky, S., & Hertwig, R. (2021). Digital Media and Democracy: A Systematic Review of Causal and Correlational Evidence Worldwide. [SocArXiv](https://osf.io/preprints/socarxiv/p3z9v){:target="_blank"} 
 
 [See all publications](https://lfoswald.github.io/publication/){:target="_blank"}
 
-### Please do reach out if you'd like to exchange ideas, explore collaborations or if you have questions!  
+### Feel free to reach out if you'd like to exchange ideas, explore collaborations or if you have questions!  
 Lisa
