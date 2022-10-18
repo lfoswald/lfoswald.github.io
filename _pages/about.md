@@ -21,9 +21,11 @@ I graduated from the University of Oxford, UK, with a MSc degree in Social Data 
 
 ## Most recent work
 
+Oswald, L. (2022). Beyond the tip of the iceberg? Exploring Characteristics of the Online Public with Digital Trace Data.  [SocArXiv](https://osf.io/preprints/socarxiv/yfmzh/){:target="_blank"}
+
 Oswald, L. (2022). More than News! Mapping the Deliberative Potential of Political Online Ecosystems with Digital Trace Data. [SocArXiv](https://osf.io/preprints/socarxiv/68udg/){:target="_blank"}
 
-Oswald, L. (2022). Automating the Analysis of Online Deliberation? Comparing computational analyses of polarized discussions on climate change to established content analysis. [SocArXiv](https://doi.org/10.31235/osf.io/qmzwx){:target="_blank"}
+Oswald, L. (2022). Automating the Analysis of Online Deliberation? A Comparison of Manual and Computational Measures Applied to Climate Change Discussions. [SocArXiv](https://doi.org/10.31235/osf.io/qmzwx){:target="_blank"}
 
 Lorenz-Spreen, P., Oswald, L., Lewandowsky, S., & Hertwig, R. (2021). Digital Media and Democracy: A Systematic Review of Causal and Correlational Evidence Worldwide. [SocArXiv](https://osf.io/preprints/socarxiv/p3z9v){:target="_blank"} 
 
