@@ -21,7 +21,7 @@ I graduated from the University of Oxford, UK, with a MSc degree in Social Data 
 
 ## Most recent work
 
-Lorenz-Spreen, P.*, Oswald, L.*, Lewandowsky, S., & Hertwig, R. (2022). A systematic review of worldwide causal and correlational evidence on digital media and democracy. Nature Human Behaviour (in press). [SocArXiv](https://osf.io/preprints/socarxiv/p3z9v){:target="_blank"} 
+Lorenz-Spreen, P.\*, Oswald, L.\*, Lewandowsky, S., & Hertwig, R. (2022). A systematic review of worldwide causal and correlational evidence on digital media and democracy. Nature Human Behaviour (in press). [SocArXiv](https://osf.io/preprints/socarxiv/p3z9v){:target="_blank"} 
 
 Oswald, L., Munzert, S., Barberá, P., Guess, A., and Yang, J. (2022). Beyond the tip of the iceberg? Exploring Characteristics of the Online Public with Digital Trace Data.  [SocArXiv](https://osf.io/preprints/socarxiv/yfmzh/){:target="_blank"}
 
