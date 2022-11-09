@@ -22,11 +22,11 @@ MSc. Social Data Science, University of Oxford (2019-2020)
 
 MSc. Psychology, [University of Kassel](https://www.uni-kassel.de/fb01/institute/institut-fuer-psychologie/){:target="_blank"} (2016-2019)
 
-* First major in Social and Environmental Psychology, second major in Clinical Psychology. Master thesis: Social Drivers of Individual Air Travel [publication](https://www.tandfonline.com/doi/full/10.1080/09669582.2020.1812616){:target="_blank"}
+* First major in Social Psychology, second major in Clinical Psychology. Master thesis: Social Drivers of Individual Air Travel [publication](https://www.tandfonline.com/doi/full/10.1080/09669582.2020.1812616){:target="_blank"}
 
 BSc. Psychology, University of Kassel (2013-2016)
 
-* Bachelor thesis in Environmental Psychology: Outdoor Sport and Environmental Behavior. Presentation at the AASP Conference in Toronto, 2018.
+* Bachelor thesis in Psychology: Outdoor Sport and Environmental Behavior. Presentation at the AASP Conference in Toronto, 2018.
 
 ### WORK EXPERIENCE
 
@@ -72,15 +72,6 @@ Scholarship, German Academic National Foundation ([Studienstiftung des Deutschen
 * Sport Psychology, FC Augsburg, German premier league soccer team (2017)
 * Psychological therapy of chronic pain, German Red Cross Hospital, Kassel (Pain Clinic) (2015)
 
-
-### SPORTS
-
-Archery
-
-* Member of the German Junior National Team (2011-2013)
-* Participation in European Championships, World Championships and various other international competitions
-* German Champion, Olympic Recurve, Outdoor and Indoor (2011)
-* German Vice Champion, Field (2013)
 
 
 [Download CV here](http://lfoswald.github.io/files/CV_oswald_public.pdf){:target="_blank"}
