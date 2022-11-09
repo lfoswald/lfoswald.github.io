@@ -17,7 +17,6 @@ I graduated from the University of Oxford, UK, with a MSc degree in Social Data 
 * The public perception of climate change, the psychology of sustainable behavior and science communication. 
 * Public opinion, political polarization, conspiracy myths and online extremism.  
 * Human-technology interaction, especially risk perception and technology acceptance in the face of crises (e.g. climate engineering and Covid contact tracing). 
-* Critical perspectives on (seemingly quick and easy) technological solutions to complex social problems (e.g. "Smart Cities" and AI).
 
 ## Most recent work
 
@@ -31,5 +30,3 @@ Oswald, L. (2022). Automating the Analysis of Online Deliberation? A Comparison 
 
 [See all publications](https://lfoswald.github.io/publication/){:target="_blank"}
 
-### Feel free to reach out if you'd like to exchange ideas, explore collaborations or if you have questions!  
-Lisa
