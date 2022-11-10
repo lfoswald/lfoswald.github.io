@@ -30,5 +30,5 @@ Oswald, L. (2022). Automating the Analysis of Online Deliberation? A Comparison 
 
 [See all publications](https://lfoswald.github.io/publication/){:target="_blank"}
 
-Connect via Twitter or Mastodon <a rel="me" href="https://mastodon.online/@LisaFOswaldo">Mastodon</a>
+Connect via [Twitter](https://twitter.com/LisaFOswaldo) or <a rel="me" href="https://mastodon.online/@LisaFOswaldo">Mastodon</a>
 
