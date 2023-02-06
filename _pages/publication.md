@@ -13,6 +13,8 @@ redirect_from:
 
 ### Working Papers
 
+Oswald, L. (2023). Effects of Preemptive Empathy Interventions on Reply Toxicity among Highly Active Social Media Users. [SocArXiv](https://osf.io/preprints/socarxiv/evdxy/){:target="_blank"}
+
 Oswald, L., Munzert, S., Barberá, P., Guess, A., and Yang, J. (2022). Beyond the tip of the iceberg? Exploring Characteristics of the Online Public with Digital Trace Data.  [SocArXiv](https://osf.io/preprints/socarxiv/yfmzh/){:target="_blank"}
 
 Oswald, L. (2022). More than News! Mapping the Deliberative Potential of Political Online Ecosystems with Digital Trace Data. [SocArXiv](https://osf.io/preprints/socarxiv/68udg/){:target="_blank"}, [Twitter summary](https://twitter.com/LisaFOswaldo/status/1556613401438289920){:target="_blank"}, [Discussion with TeDCog Bristol](https://www.youtube.com/watch?v=Ayyul0sgqu0&t=226s){:target="_blank"}
