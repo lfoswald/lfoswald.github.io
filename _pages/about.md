@@ -20,9 +20,11 @@ I graduated from the University of Oxford, UK, with a MSc degree in Social Data 
 
 ## Most recent work
 
+Oswald, L. (2023). Effects of Preemptive Empathy Interventions on Reply Toxicity among Highly Active Social Media Users. [SocArXiv](https://osf.io/preprints/socarxiv/evdxy/){:target="_blank"}
+
 Lorenz-Spreen, P.\*, Oswald, L.\*, Lewandowsky, S., & Hertwig, R. (2022). A systematic review of worldwide causal and correlational evidence on digital media and democracy. Nature Human Behaviour, [DOI: 10.1038/s41562-022-01460-1.](https://doi.org/10.1038/s41562-022-01460-1){:target="_blank"} 
 
-Oswald, L., Munzert, S., Barberá, P., Guess, A., and Yang, J. (2022). Beyond the tip of the iceberg? Exploring Characteristics of the Online Public with Digital Trace Data.  [SocArXiv](https://osf.io/preprints/socarxiv/yfmzh/){:target="_blank"}
+Oswald, L., Munzert, S., Barberá, P., Guess, A., and Yang, J. (2022). Beyond the tip of the iceberg? Exploring Characteristics of the Online Public with Digital Trace Data. [SocArXiv](https://osf.io/preprints/socarxiv/yfmzh/){:target="_blank"}
 
 Oswald, L. (2022). More than News! Mapping the Deliberative Potential of Political Online Ecosystems with Digital Trace Data. [SocArXiv](https://osf.io/preprints/socarxiv/68udg/){:target="_blank"}
 
