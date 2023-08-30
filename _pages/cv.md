@@ -28,7 +28,9 @@ BSc. Psychology, University of Kassel (2013-2016)
 
 * Bachelor thesis in Psychology: Outdoor Sport and Environmental Behavior. Presentation at the AASP Conference in Toronto, 2018.
 
-### WORK EXPERIENCE
+### WORK 
+
+* Post Doctoral Researcher, Max-Planck Institute for Human Development, [Cognition in Online Environments](https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality/research-areas/cognition-in-online-environment){:target="_blank"}, Adaptive Rationality Center (Fall 2023 - Present)
 
 * Teaching Assistant, Hertie School, [Introduction to Data Science](https://github.com/intro-to-data-science-21){:target="_blank"} (Fall 2021, Fall 2022)
 
