@@ -14,7 +14,7 @@ redirect_from:
 
 PhD Political Science, Hertie School, Berlin, [Doctoral Program in Governance](https://www.hertie-school.org/en/docgov){:target="_blank"} (2020-2023)
 
-* Research focus: Deliberation in online environments using computational social science approaches at the [Data Science Lab](https://www.hertie-school.org/en/datasciencelab){:target="_blank"} at the Hertie School
+* Title: Public Discourse in Online Environments, supervised by Simon Munzert, Ralph Hertwig and Andrew Guess, graduated with summa cum laude.
 
 MSc. Social Data Science, University of Oxford (2019-2020)
 
