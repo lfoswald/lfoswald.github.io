@@ -36,3 +36,8 @@ Oswald, L., & Ernst, A. (2020). Flying in the Face of Climate Change: Quantitati
 Klaus, G., Ernst, A., & Oswald, L. (2020). Psychological factors influencing laypersons’ acceptance of climate engineering, climate change mitigation and business as usual scenarios. Technology in Society, 60, 101222.
 [Publication](https://www.sciencedirect.com/science/article/pii/S0160791X1930137X){:target="_blank"}
 
+### Dissertation
+
+Oswald, L. (2023). Public Discourse in Online Environments. Contributions to description, measurement and communication behavior change in political online ecosystems. Hertie School. [DOI: 10.48462/opus4-5066](https://doi.org/10.48462/opus4-5066){:target="_blank"}
+
+
