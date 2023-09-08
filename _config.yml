@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "LISA OSWALD" 
 title_separator          : "-"
 name                     : &name "Lisa Oswald"
-description              : &description "Postdoctoral researcher at the Max-Planck Institute for Human Development, Berlin."
+description              : &description "Postdoctoral researcher at the Max Planck Institute for Human Development, Berlin."
 url                      : https://lfoswald.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lfowald.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lisa Oswald"
   avatar           : "profile.png"
-  bio              : "PhD researcher at the Hertie School"
+  bio              : "Postdoctoral researcher \n Max Planck Institute for Human Development"
   location         : "Berlin"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  Hertie School    : "https://www.hertie-school.org/en/who-we-are/profile/person/oswald"
+  Max Planck       : "https://www.mpib-berlin.mpg.de/person/lisa-oswald/171978"
 
 # Reading Files
 include:
