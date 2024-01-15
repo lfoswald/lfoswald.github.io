@@ -11,7 +11,7 @@ redirect_from:
 
 ### 🎒 Reference Management Briefing
 
-* Spring 2024, find [materials here](https://github.com/lfoswald/lfoswald.github.io/blob/master/files/Zotero%20Workflow%20c656771c3a234429aeb287d1c06e072a.html)
+* Spring 2024, find [materials here](https://reclaimingautonomyonline.notion.site/Zotero-Workflow-c656771c3a234429aeb287d1c06e072a)
 * Cognition in Online Environments, ARC, MPIB Berlin
 
 ### 🎒 Introduction to R Workshop
