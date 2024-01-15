@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+### 🎒 Reference Management Briefing
+
+* Spring 2024, find [materials here](https://github.com/lfoswald/lfoswald.github.io/blob/master/files/Zotero%20Workflow%20c656771c3a234429aeb287d1c06e072a.html)
+* Cognition in Online Environments, ARC, MPIB Berlin
+
 ### 🎒 Introduction to R Workshop
 
 * Spring 2022, two-day (6h) workshop
