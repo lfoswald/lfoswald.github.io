@@ -47,32 +47,15 @@ BSc. Psychology, University of Kassel (2013-2016)
 
 ### AWARDS AND SCHOLARSHIPS
 
-Doctoral Scholarship, German Academic National Foundation ([Promotionsförderung, Studienstiftung des Deutschen Volkes](https://www.studienstiftung.de/infos-fuer-promovierende/promotionsfoerderung-der-studienstiftung/){:target="_blank"}) (2021-2023)
+*  Doctoral Scholarship, German Academic National Foundation ([Promotionsförderung, Studienstiftung des Deutschen Volkes](https://www.studienstiftung.de/infos-fuer-promovierende/promotionsfoerderung-der-studienstiftung/){:target="_blank"}) (2021-2023)
 
-Highly commended thesis 2020, [Oxford Internet Institute](https://www.oii.ox.ac.uk/blog/introducing-the-2020-oii-msc-thesis-prize-winners/){:target="_blank"}
+* Best poster award 2022, [PolMeth Europe](https://www.wiso.uni-hamburg.de/fachbereich-sowi/professuren/troeger/events/polmeth-europe/2022.html){:target="_blank"}
+  
+* Highly commended thesis 2020, [Oxford Internet Institute](https://www.oii.ox.ac.uk/blog/introducing-the-2020-oii-msc-thesis-prize-winners/){:target="_blank"}
 
-* Prize awarded for my MSc thesis in Social Data Science (Should we talk to climate skeptics?), annual award.
+* Carl-Friedrich Graumann Award, [German Psychological Society (DGPs), Section Environmental Psychology](https://fachgruppe-umweltpsychologie.de/ehrungen-preise/c-f-graumann-preistraeger/#:~:text=Graumann%2DPreis%20wird%20im%20Rahmen,Das%20Preisgeld%20betr%C3%A4gt%20%E2%82%AC%20500.){:target="_blank"} (2018)
 
-Carl-Friedrich Graumann Award, [German Psychological Society (DGPs), Section Environmental Psychology](https://fachgruppe-umweltpsychologie.de/ehrungen-preise/c-f-graumann-preistraeger/#:~:text=Graumann%2DPreis%20wird%20im%20Rahmen,Das%20Preisgeld%20betr%C3%A4gt%20%E2%82%AC%20500.){:target="_blank"} (2018)
-
-* Honouring my bachelor thesis (Outdoor Sport and Environmental behavior) as best newcomer
-scientist work in the field of environmental psychology, bi-annual award.
-
-Scholarship, German Academic National Foundation ([Studienstiftung des Deutschen Volkes](https://www.studienstiftung.de/){:target="_blank"}) (2016-2020)
-
-* Supporting ”the university education of young people who, on account of their exceptional academic or artistic talents and their personalities, can be expected to make an outstanding contribution to society as a whole”.
-
-
-### VOLUNTEER EXPERIENCE
-
-* Elected PhD Representative, Hertie School, Berlin (AY 2022)
-* Seminar Organization, Network Analysis for Sustainable Development (2019-2020)
-* Elected Student Representative, Graduate Center for Environmental Studies and Teaching ([GradZ](https://www.uni-kassel.de/forschung/gradz/start){:target="_blank"}), University of Kassel (2018-2019)
-* Seminar Organization, Artificial Intelligence and Society (2018-2019)
-* Seminar Organization, Sustainability Scenario Modelling (2017-2018)
-* Elected Student Representative, Directorate, Department of Psychology, University of Kassel (2017-2018)
-* Sport Psychology, FC Augsburg, German premier league soccer team (2017)
-* Psychological therapy of chronic pain, German Red Cross Hospital, Kassel (Pain Clinic) (2015)
+* Scholarship, German Academic National Foundation ([Studienstiftung des Deutschen Volkes](https://www.studienstiftung.de/){:target="_blank"}) (2016-2020)
 
 
 
