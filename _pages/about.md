@@ -14,19 +14,19 @@ I am a postdoctoral researcher in the field of computational social science at t
 I hold a PhD in political science (Dr. rer. pol.) from the Hertie School in Berlin. Previously, I graduated from the University of Oxford, UK, with a MSc degree in Social Data Science, and from the University of Kassel, Germany, with a BSc and MSc degree in Psychology. I worked as a teaching assistant for the MSc courses "Introduction to Data Science" of the MSc in Data Science for Public Policy and for the course "Statistical Modeling & Causal Inference" of the policy analysis track at the Hertie School. Before that, I worked as a research consultant at the Hertie School's Data Science Lab and at the Center for Environmental Systems Research (CESR) in Kassel.
 
 ## I am futher interested in 
+* Public opinion, political polarization, conspiracy myths and online extremism.
 * The public perception of climate change, the psychology of sustainable behavior and science communication. 
-* Public opinion, political polarization, conspiracy myths and online extremism.  
 * Human-technology interaction, especially risk perception and technology acceptance in the face of crises (e.g. climate engineering and Covid contact tracing). 
 
 ## Most recent work
+
+Oswald, L. (2024). More than news! Mapping the deliberative potential of a political online ecosystem with digital trace data. Humanities and Social Sciences Communications, 11(1), 1–16. [https://doi.org/10.1057/s41599-024-03115-0](https://doi.org/10.1057/s41599-024-03115-0){:target="_blank"} 
 
 Oswald, L. (2023). Effects of Preemptive Empathy Interventions on Reply Toxicity among Highly Active Social Media Users. [SocArXiv](https://osf.io/preprints/socarxiv/evdxy/){:target="_blank"}
 
 Lorenz-Spreen, P.\*, Oswald, L.\*, Lewandowsky, S., & Hertwig, R. (2022). A systematic review of worldwide causal and correlational evidence on digital media and democracy. Nature Human Behaviour, [DOI: 10.1038/s41562-022-01460-1.](https://doi.org/10.1038/s41562-022-01460-1){:target="_blank"} 
 
 Oswald, L., Munzert, S., Barberá, P., Guess, A., and Yang, J. (2022). Beyond the tip of the iceberg? Exploring Characteristics of the Online Public with Digital Trace Data. [SocArXiv](https://osf.io/preprints/socarxiv/yfmzh/){:target="_blank"}
-
-Oswald, L. (2022). More than News! Mapping the Deliberative Potential of Political Online Ecosystems with Digital Trace Data. [SocArXiv](https://osf.io/preprints/socarxiv/68udg/){:target="_blank"}
 
 Oswald, L. (2022). Automating the Analysis of Online Deliberation? A Comparison of Manual and Computational Measures Applied to Climate Change Discussions. [SocArXiv](https://doi.org/10.31235/osf.io/qmzwx){:target="_blank"}
 
