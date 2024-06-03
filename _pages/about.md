@@ -14,9 +14,10 @@ I am a postdoctoral researcher in the field of computational social science at t
 I hold a PhD in political science (Dr. rer. pol.) from the Hertie School in Berlin. Previously, I graduated from the University of Oxford, UK, with a MSc degree in Social Data Science, and from the University of Kassel, Germany, with a BSc and MSc degree in Psychology. I worked as a teaching assistant for the MSc courses "Introduction to Data Science" of the MSc in Data Science for Public Policy and for the course "Statistical Modeling & Causal Inference" of the policy analysis track at the Hertie School. Before that, I worked as a research consultant at the Hertie School's Data Science Lab and at the Center for Environmental Systems Research (CESR) in Kassel.
 
 ## I am futher interested in 
-* Public opinion, political polarization, conspiracy myths and online extremism.
-* The public perception of climate change, the psychology of sustainable behavior and science communication. 
-* Human-technology interaction, especially risk perception and technology acceptance in the face of crises (e.g. climate engineering and Covid contact tracing). 
+* Public opinion, political trust and political polarization.
+* Methodological questions of measurement and causal inference.
+* The public perception of climate change, environmental behavior and science communication.
+* Platform design interventions, content moderation and platform regulation.
 
 ## Most recent work
 
@@ -28,10 +29,9 @@ Lorenz-Spreen, P.\*, Oswald, L.\*, Lewandowsky, S., & Hertwig, R. (2022). A syst
 
 Oswald, L., Munzert, S., Barberá, P., Guess, A., and Yang, J. (2022). Beyond the tip of the iceberg? Exploring Characteristics of the Online Public with Digital Trace Data. [SocArXiv](https://osf.io/preprints/socarxiv/yfmzh/){:target="_blank"}
 
-Oswald, L. (2022). Automating the Analysis of Online Deliberation? A Comparison of Manual and Computational Measures Applied to Climate Change Discussions. [SocArXiv](https://doi.org/10.31235/osf.io/qmzwx){:target="_blank"}
 
 [See all publications](https://lfoswald.github.io/publication/){:target="_blank"}
 
 ## Connect 
-via 🐦[Twitter](https://twitter.com/LisaFOswaldo) or 🐘<a rel="me" href="https://mastodon.online/@LisaFOswaldo">Mastodon</a>
+via [Twitter](https://twitter.com/LisaFOswaldo){:target="_blank"} or [LinkedIn](https://www.linkedin.com/in/lfoswald/). (You can find me on Mastodon and Bluesky but I'm an infrequent visitor there.) 
 
