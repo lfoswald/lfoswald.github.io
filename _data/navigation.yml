@@ -10,14 +10,10 @@ main:
   - title: "CV"
     url: /cv/
  
-  #- title: "Reading"
-  #  url: /readings/
-    
-  #- title: "Nerd"
-  #  url: /nerd/
+  - title: "Communication"
+    url: /communication/
 
     - title: "Contact"
     url: /contact/       
 
- # - title: "Communication"
- #   url: /communication/
+
