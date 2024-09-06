@@ -13,7 +13,10 @@ main:
   - title: "Communication"
     url: /communication/
 
-    - title: "Contact"
+  - title: "Contact"
     url: /contact/       
+
+  - title: "Guide"
+    url: /markdown/
 
 
