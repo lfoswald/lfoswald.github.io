@@ -13,11 +13,11 @@ main:
   #- title: "Reading"
   #  url: /readings/
     
-  #- title: "Communication"
-  #  url: /communication/
+  #- title: "Nerd"
+  #  url: /nerd/
 
     - title: "Contact"
     url: /contact/       
 
   - title: "Communication"
-    url: /nerd/
+    url: /communication/
