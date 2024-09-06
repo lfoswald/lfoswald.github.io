@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /nerd/
+permalink: /communication/
 author_profile: true
 redirect_from:
   - /resume
