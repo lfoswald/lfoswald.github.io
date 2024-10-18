@@ -19,16 +19,13 @@ I hold a PhD in political science (Dr. rer. pol.) from the Hertie School in Berl
 * The public perception of climate change, environmental behavior and science communication.
 * Platform design interventions, content moderation and platform regulation.
 
-## Most recent work
+## Recent publications
+
+Younger-Khan, S., Weidmann, N. B., & Oswald, L. (2024). Consistent effects of science and scientist characteristics on public trust across political regimes. Humanities and Social Sciences Communications, 11(1), 1–14. [https://doi.org/10.1057/s41599-024-03909-2](https://doi.org/10.1057/s41599-024-03909-2){:target="_blank"} 
 
 Oswald, L. (2024). More than news! Mapping the deliberative potential of a political online ecosystem with digital trace data. Humanities and Social Sciences Communications, 11(1), 1–16. [https://doi.org/10.1057/s41599-024-03115-0](https://doi.org/10.1057/s41599-024-03115-0){:target="_blank"} 
 
-Oswald, L. (2023). Effects of Preemptive Empathy Interventions on Reply Toxicity among Highly Active Social Media Users. [SocArXiv](https://osf.io/preprints/socarxiv/evdxy/){:target="_blank"}
-
-Lorenz-Spreen, P.\*, Oswald, L.\*, Lewandowsky, S., & Hertwig, R. (2022). A systematic review of worldwide causal and correlational evidence on digital media and democracy. Nature Human Behaviour, [DOI: 10.1038/s41562-022-01460-1.](https://doi.org/10.1038/s41562-022-01460-1){:target="_blank"} 
-
-Oswald, L., Munzert, S., Barberá, P., Guess, A., and Yang, J. (2022). Beyond the tip of the iceberg? Exploring Characteristics of the Online Public with Digital Trace Data. [SocArXiv](https://osf.io/preprints/socarxiv/yfmzh/){:target="_blank"}
-
+Lorenz-Spreen, P.\*, Oswald, L.\*, Lewandowsky, S., & Hertwig, R. (2023). A systematic review of worldwide causal and correlational evidence on digital media and democracy. Nature Human Behaviour, [DOI: 10.1038/s41562-022-01460-1.](https://doi.org/10.1038/s41562-022-01460-1){:target="_blank"} 
 
 [See all publications](https://lfoswald.github.io/publication/){:target="_blank"}
 
