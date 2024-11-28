@@ -36,7 +36,7 @@ Covering tidy data, the pipe operator and tidyverse syntax, data manipulation wi
 
 ### 🎒 Statistical Modeling & Causal Inference
 
-* Spring 2021
+* Spring 2021, Spring 2022
 * Teaching language: English
 * Program: Policy Analysis Track of the Master in Public Policy at the Hertie School, Berlin
 * Teaching Assistant to Prof. Simon Munzert
