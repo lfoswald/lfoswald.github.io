@@ -30,5 +30,5 @@ Lorenz-Spreen, P.\*, Oswald, L.\*, Lewandowsky, S., & Hertwig, R. (2023). A syst
 [See all publications](https://lfoswald.github.io/publication/){:target="_blank"}
 
 ## Connect 
-via [Twitter](https://twitter.com/LisaFOswaldo){:target="_blank"} or [LinkedIn](https://www.linkedin.com/in/lfoswald/). (You can find me on Mastodon and Bluesky but I'm an infrequent visitor there.) 
+via 🦋[Bluesky](https://bsky.app/profile/lfoswaldo.bsky.social){:target="_blank"} or 🟦[LinkedIn](https://www.linkedin.com/in/lfoswald/). (You can find me on Mastodon and X but I'm an infrequent visitor there.) 
 
