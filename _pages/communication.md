@@ -45,7 +45,9 @@ Vortrag und Podiumsdiskussion im Abgeordentenhaus zu Berlin zum Thema [Lebhafte 
  alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10"                   
 /></a>
 
-## German writing
+## German media and materials
+
+Max-Wissen: Aus der Forschung direkt in die Schule. [Geomax 31: Demokratie und soziale Medien](https://www.max-wissen.de/max-hefte/geomax-31-demokratie-und-social-media/){:target="_blank"}
 
 [Wie gefährlich sind digitale Medien für die Demokratie?](https://lfoswald.github.io/files/Essay_Oswald.pdf){:target="_blank"}
 
