@@ -9,16 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-### Current Projects
-
-Oswald, L. & Lorenz-Spreen, P. (2024). Dynamics of Digital Discourse: [A Collective Field Experiment on Reddit.](https://some4dem.eu/news/reddit-field-experiment){:target="_blank"} 
-
-Oswald, L., Kozyreva, A., Nickl, P. L., Herzog, S. & Hertwig, R. (2024). Lateral reading and online search to boost citizens' competent navigation of online environments: testing interventions with web tracking data.
-
 
 ### Working Papers
 
-Oswald, L. (2023). Effects of Preemptive Empathy Interventions on Reply Toxicity among Highly Active Social Media Users. [SocArXiv](https://osf.io/preprints/socarxiv/evdxy/){:target="_blank"}
+Oswald, L., Schulz, W., Hertwig, R., Lazer, D., & Stier, S. (2025). The Tip of the Iceberg: How the Social Media Production-Consumption Gap Distorts Public Opinion for Citizens and Researchers. [SocArXiv](https://osf.io/frcv5_v1){:target="_blank"}
+
+Oswald, L., Kozyreva, A., Nickl, P. L., Herzog, S. & Hertwig, R. (2025). Lateral reading and online search to boost citizens' competent navigation of online environments: testing interventions with web tracking data. [EU Deliverable Report](https://files-www.mis.mpg.de/mpi-typo3/SoMe4Dem/Deliverables/D4.2_SoMe4Dem.pdf){:target="_blank"}
+
+Oswald, L., Schulz, W. & Lorenz-Spreen, P. (2025). Dynamics of Digital Discourse: [A Collective Field Experiment on Reddit.](https://some4dem.eu/news/reddit-field-experiment){:target="_blank"} 
 
 Oswald, L., Munzert, S., Barberá, P., Guess, A., and Yang, J. (2022). Beyond the tip of the iceberg? Exploring Characteristics of the Online Public with Digital Trace Data.  [SocArXiv](https://osf.io/preprints/socarxiv/yfmzh/){:target="_blank"}
 
@@ -26,6 +24,8 @@ Oswald, L. (2022). Automating the Analysis of Online Deliberation? A Comparison 
 
 
 ### Peer-reviewed papers
+
+Oswald, L. (2023). Effects of Preemptive Empathy Interventions on Reply Toxicity among Highly Active Social Media Users. [SocArXiv](https://osf.io/preprints/socarxiv/evdxy/){:target="_blank"} (accepted at Technology, Mind, and Behavior).
 
 Younger-Khan, S., Weidmann, N. B., & Oswald, L. (2024). Consistent effects of science and scientist characteristics on public trust across political regimes. Humanities and Social Sciences Communications, 11(1), 1–14. [https://doi.org/10.1057/s41599-024-03909-2](https://doi.org/10.1057/s41599-024-03909-2){:target="_blank"}
 
@@ -47,5 +47,12 @@ Klaus, G., Ernst, A., & Oswald, L. (2020). Psychological factors influencing lay
 ### Dissertation
 
 Oswald, L. (2023). Public Discourse in Online Environments. Contributions to description, measurement and communication behavior change in political online ecosystems. Hertie School. [DOI: 10.48462/opus4-5066](https://doi.org/10.48462/opus4-5066){:target="_blank"}, [German essay summary](../files/Essay_Oswald.pdf){:target="_blank"}
+
+
+### Other Publications
+
+Hertwig, R., & Oswald, L. (2025, September 19). Wer’s glaubt: Zu den psychologischen Faktoren von Falsch- und Desinformation. Bundeszentrale für Politische Bildung, Aus Politik und Zeitgeschichte/bpb.de (Propaganda und Desinformation). [BPB Artikel](https://www.bpb.de/shop/zeitschriften/apuz/propaganda-und-desinformation-2025/570921/wer-s-glaubt/){:target="_blank"}
+
+Oswald, L., & Lorenz-Spreen, P. (2025). Reddit discussion field experiment: Dataset. Zenodo. [https://zenodo.org/records/16109520](https://zenodo.org/records/16109520){:target="_blank"}
 
 
