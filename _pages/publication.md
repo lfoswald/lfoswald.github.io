@@ -22,7 +22,6 @@ Oswald, L., Munzert, S., Barberá, P., Guess, A., and Yang, J. (2022). Beyond th
 
 Oswald, L. (2022). Automating the Analysis of Online Deliberation? A Comparison of Manual and Computational Measures Applied to Climate Change Discussions. [SocArXiv](https://doi.org/10.31235/osf.io/qmzwx){:target="_blank"}, [Twitter summary](https://twitter.com/LisaFOswaldo/status/1524428414844907521){:target="_blank"}
 
-
 ### Peer-reviewed papers
 
 Oswald, L. (2023). Effects of Preemptive Empathy Interventions on Reply Toxicity among Highly Active Social Media Users. [SocArXiv](https://osf.io/preprints/socarxiv/evdxy/){:target="_blank"} (accepted at Technology, Mind, and Behavior).
