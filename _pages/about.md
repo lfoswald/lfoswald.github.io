@@ -19,7 +19,13 @@ I hold a PhD in political science (Dr. rer. pol.) from the Hertie School in Berl
 * The public perception of climate change, environmental behavior and science communication.
 * Platform design interventions, content moderation and platform regulation.
 
-## Recent publications
+## Recent work
+
+Oswald, L., Schulz, W., Hertwig, R., Lazer, D., & Stier, S. (2025). The Tip of the Iceberg: How the Social Media Production-Consumption Gap Distorts Public Opinion for Citizens and Researchers. SocArXiv. [https://osf.io/frcv5_v1](https://osf.io/frcv5_v1){:target="_blank"}
+
+Oswald, L., Schulz, W., & Lorenz-Spreen, P. (2025). A Collective Field Experiment Disentangling Participation in Online Political Discussions. OSF. [https://doi.org/10.31235/osf.io/p2jaq_v1](https://doi.org/10.31235/osf.io/p2jaq_v1){:target="_blank"} (minor revisions at Science Advances).
+
+Oswald, L. (2025). Effects of Preemptive Empathy Interventions on Reply Toxicity among Highly Active Social Media Users. SocArXiv. [https://doi.org/10.31235/osf.io/evdxy](https://doi.org/10.31235/osf.io/evdxy){:target="_blank"}  (accepted at Technology, Mind, and Behavior). 
 
 Younger-Khan, S., Weidmann, N. B., & Oswald, L. (2024). Consistent effects of science and scientist characteristics on public trust across political regimes. Humanities and Social Sciences Communications, 11(1), 1–14. [https://doi.org/10.1057/s41599-024-03909-2](https://doi.org/10.1057/s41599-024-03909-2){:target="_blank"} 
 
