@@ -9,7 +9,7 @@ redirect_from:
 ---
 # About
 
-I am an Assistant Professor of Computational Social Science at the Center for Critical Computational Studies (C3S) at Goethe University in Frankfurt am Main, Germany. 
+I am an Assistant Professor of Computational Social Science at the [Center for Critical Computational Studies (C3S)](https://www.c3s-frankfurt.de/){:target="_blank"} at Goethe University in Frankfurt am Main, Germany. 
 
 My research focuses on public discourse in online enviornments and the role of digital media for democratic politics. While integrating psychological and political science perspectives, I aim to use digital trace data and online experiments to better understand social phenomena such as climate change skepticism, online hate speech and political polarization. Before joining Goethe University, I worked as a postdoctoral researcher in the field of computational social science at the Max-Planck Institute for Human Development in Berlin where I remain a guest researcher.
 
