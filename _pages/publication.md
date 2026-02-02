@@ -16,15 +16,15 @@ Oswald, L., Schulz, W., Hertwig, R., Lazer, D., & Stier, S. (2025). The Tip of t
 
 Oswald, L., Kozyreva, A., Nickl, P. L., Herzog, S. & Hertwig, R. (2025). Lateral reading and online search to boost citizens' competent navigation of online environments: testing interventions with web tracking data. [EU Deliverable Report](https://files-www.mis.mpg.de/mpi-typo3/SoMe4Dem/Deliverables/D4.2_SoMe4Dem.pdf){:target="_blank"}
 
-Oswald, L., Schulz, W. & Lorenz-Spreen, P. (2025). Dynamics of Digital Discourse: [A Collective Field Experiment on Reddit.](https://some4dem.eu/news/reddit-field-experiment){:target="_blank"} 
-
 Oswald, L., Munzert, S., Barberá, P., Guess, A., and Yang, J. (2022). Beyond the tip of the iceberg? Exploring Characteristics of the Online Public with Digital Trace Data.  [SocArXiv](https://osf.io/preprints/socarxiv/yfmzh/){:target="_blank"}
 
 Oswald, L. (2022). Automating the Analysis of Online Deliberation? A Comparison of Manual and Computational Measures Applied to Climate Change Discussions. [SocArXiv](https://doi.org/10.31235/osf.io/qmzwx){:target="_blank"}, [Twitter summary](https://twitter.com/LisaFOswaldo/status/1524428414844907521){:target="_blank"}
 
 ### Peer-reviewed papers
 
-Oswald, L. (2023). Effects of Preemptive Empathy Interventions on Reply Toxicity among Highly Active Social Media Users. [SocArXiv](https://osf.io/preprints/socarxiv/evdxy/){:target="_blank"} (accepted at Technology, Mind, and Behavior).
+Oswald, L., Schulz, W. S., & Lorenz-Spreen, P. (2025). Disentangling participation in online political discussions with a collective field experiment. Science Advances, 11(50), eady8022. [https://doi.org/10.1126/sciadv.ady8022](https://doi.org/10.1126/sciadv.ady8022){:target="_blank"}
+
+Oswald, L. (2025). Effects of Preemptive Empathy Interventions on Reply Toxicity Among Highly Active Social Media Users. Technology, Mind, and Behavior, 6(4). [https://doi.org/10.1037/tmb0000178]([https://doi.org/10.1126/sciadv.ady8022](https://doi.org/10.1037/tmb0000178)){:target="_blank"}
 
 Younger-Khan, S., Weidmann, N. B., & Oswald, L. (2024). Consistent effects of science and scientist characteristics on public trust across political regimes. Humanities and Social Sciences Communications, 11(1), 1–14. [https://doi.org/10.1057/s41599-024-03909-2](https://doi.org/10.1057/s41599-024-03909-2){:target="_blank"}
 
