@@ -24,10 +24,10 @@ I hold a PhD in political science (Dr. rer. pol.) from the Hertie School in Berl
 ## Recent publications
 
 Oswald, L., Schulz, W. S., & Lorenz-Spreen, P. (2025). Disentangling participation in online political discussions with a collective field experiment. Science Advances, 11(50), eady8022. [https://doi.org/10.1126/sciadv.ady8022]
-([https://doi.org/10.31235/osf.io/p2jaq_v1](https://doi.org/10.1126/sciadv.ady8022)){:target="_blank"}
+(https://doi.org/10.1126/sciadv.ady8022){:target="_blank"}
 
 Oswald, L. (2025). Effects of Preemptive Empathy Interventions on Reply Toxicity Among Highly Active Social Media Users. Technology, Mind, and Behavior, 6(4). [https://doi.org/10.1037/tmb0000178]
-(https://doi.org/10.31235/osf.io/evdxy](https://doi.org/10.1037/tmb0000178){:target="_blank"} 
+(https://doi.org/10.1037/tmb0000178){:target="_blank"} 
 
 Younger-Khan, S., Weidmann, N. B., & Oswald, L. (2024). Consistent effects of science and scientist characteristics on public trust across political regimes. Humanities and Social Sciences Communications, 11(1), 1–14. [https://doi.org/10.1057/s41599-024-03909-2](https://doi.org/10.1057/s41599-024-03909-2){:target="_blank"} 
 
