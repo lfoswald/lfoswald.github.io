@@ -29,8 +29,9 @@ BSc. Psychology, University of Kassel (2013-2016)
 * Bachelor thesis in Psychology: Outdoor Sport and Environmental Behavior. Presentation at the AASP Conference in Toronto, 2018.
 
 ### WORK 
+* Assistant Professor of Computational Social Science, [Center for Critical Compuational Studies (C3S)](https://www.c3s-frankfurt.de/){:target="_blank"}, Goethe University, Frankfurt am Main (February 2026 - present)
 
-* Post Doctoral Researcher, Max-Planck Institute for Human Development, [Cognition in Online Environments](https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality/research-areas/cognition-in-online-environment){:target="_blank"}, Adaptive Rationality Center (Fall 2023 - Present)
+* Post Doctoral Researcher, Max-Planck Institute for Human Development, Berlin, [Cognition in Online Environments](https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality/research-areas/cognition-in-online-environment){:target="_blank"}, Adaptive Rationality Center (Fall 2023 - Spring 2026)
 
 * Teaching Assistant, Hertie School, [Introduction to Data Science](https://github.com/intro-to-data-science-21){:target="_blank"} (Fall 2021, Fall 2022)
 
