@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Lisa Oswald"
   avatar           : "profile.png"
-  bio              : "Postdoctoral researcher \n Max Planck Institute for Human Development"
-  location         : "Berlin"
+  bio              : "Professor of Computational Social Science \n Center for Critical Computational Studies (C3S) \n Goethe University"
+  location         : "Frankfurt am Main"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.de/citations?user=pPtpNXUAAAAJ&hl=en"
@@ -115,7 +115,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  Max Planck       : "https://www.mpib-berlin.mpg.de/person/lisa-oswald/171978"
 
 # Reading Files
 include:
