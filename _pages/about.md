@@ -9,7 +9,9 @@ redirect_from:
 ---
 # About
 
-I am a postdoctoral researcher in the field of computational social science at the Max-Planck Institute for Human Development in Berlin. My research focuses on public discourse in online enviornments and the role of digital media for democratic politics. While integrating psychological and political science perspectives, I aim to use digital trace data and online experiments to better understand social phenomena such as climate change skepticism, online hate speech and political polarization. 
+I am Assistant Professor of Computational Social Science at the Center for Critical Computational Studies (C3S) at Goethe University in Frankfurt am Main, Germany. 
+
+My research focuses on public discourse in online enviornments and the role of digital media for democratic politics. While integrating psychological and political science perspectives, I aim to use digital trace data and online experiments to better understand social phenomena such as climate change skepticism, online hate speech and political polarization. Before joining Goethe University, I worked as a postdoctoral researcher in the field of computational social science at the Max-Planck Institute for Human Development in Berlin where I remain a guest researcher.
 
 I hold a PhD in political science (Dr. rer. pol.) from the Hertie School in Berlin. Previously, I graduated from the University of Oxford, UK, with a MSc degree in Social Data Science, and from the University of Kassel, Germany, with a BSc and MSc degree in Psychology. I worked as a teaching assistant for the MSc courses "Introduction to Data Science" of the MSc in Data Science for Public Policy and for the course "Statistical Modeling & Causal Inference" of the policy analysis track at the Hertie School for several years. Before that, I worked as a research consultant at the Hertie School's Data Science Lab and at the Center for Environmental Systems Research (CESR) in Kassel.
 
@@ -19,13 +21,13 @@ I hold a PhD in political science (Dr. rer. pol.) from the Hertie School in Berl
 * The public perception of climate change, environmental behavior and science communication.
 * Platform design interventions, content moderation and platform regulation.
 
-## Recent work
+## Recent publications
 
-Oswald, L., Schulz, W., Hertwig, R., Lazer, D., & Stier, S. (2025). The Tip of the Iceberg: How the Social Media Production-Consumption Gap Distorts Public Opinion for Citizens and Researchers. SocArXiv. [https://osf.io/frcv5_v1](https://osf.io/frcv5_v1){:target="_blank"}
+Oswald, L., Schulz, W. S., & Lorenz-Spreen, P. (2025). Disentangling participation in online political discussions with a collective field experiment. Science Advances, 11(50), eady8022. [https://doi.org/10.1126/sciadv.ady8022]
+([https://doi.org/10.31235/osf.io/p2jaq_v1](https://doi.org/10.1126/sciadv.ady8022)){:target="_blank"}
 
-Oswald, L., Schulz, W., & Lorenz-Spreen, P. (2025). A Collective Field Experiment Disentangling Participation in Online Political Discussions. OSF. [https://doi.org/10.31235/osf.io/p2jaq_v1](https://doi.org/10.31235/osf.io/p2jaq_v1){:target="_blank"} (minor revisions at Science Advances).
-
-Oswald, L. (2025). Effects of Preemptive Empathy Interventions on Reply Toxicity among Highly Active Social Media Users. SocArXiv. [https://doi.org/10.31235/osf.io/evdxy](https://doi.org/10.31235/osf.io/evdxy){:target="_blank"}  (accepted at Technology, Mind, and Behavior). 
+Oswald, L. (2025). Effects of Preemptive Empathy Interventions on Reply Toxicity Among Highly Active Social Media Users. Technology, Mind, and Behavior, 6(4). [https://doi.org/10.1037/tmb0000178]
+(https://doi.org/10.31235/osf.io/evdxy](https://doi.org/10.1037/tmb0000178){:target="_blank"} 
 
 Younger-Khan, S., Weidmann, N. B., & Oswald, L. (2024). Consistent effects of science and scientist characteristics on public trust across political regimes. Humanities and Social Sciences Communications, 11(1), 1–14. [https://doi.org/10.1057/s41599-024-03909-2](https://doi.org/10.1057/s41599-024-03909-2){:target="_blank"} 
 
