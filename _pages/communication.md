@@ -12,7 +12,7 @@ redirect_from:
 
 # Science Communication
 
-As a researcher funded by public money, I feel a responsibility to communicate my findings clearly and effectively to the public, who have a right to understand how their support contributes to scientific progress. By sharing my work openly, I aim to foster trust, engagement, and a deeper appreciation for the role of science in addressing societal challenges.
+As a publicly funded researcher, I feel the responsibility to communicate relevant findings to the public. By sharing my work openly, I aim to foster trust, engagement, and a deeper appreciation for the role of scientific evidence in addressing societal challenges.
 
 ## Podcast
 
@@ -29,7 +29,7 @@ The podcast [Unraveling Behavior](https://www.mpib-berlin.mpg.de/unravelingbehav
 
 [The Conversation](https://theconversation.com/is-the-global-decline-in-democracy-linked-to-social-media-we-combed-through-the-evidence-to-find-out-193841){:target="_blank"}
 
-## Press Features
+## International Press Features
 
 * [Techpolicy Press](https://www.techpolicy.press/cause-for-concern-on-role-of-digital-media-in-decline-of-democracy/){:target="_blank"}
 * [The Atlantic](https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/?utm_source=newsletter&utm_medium=email&utm_campaign=atlantic-daily-newsletter&utm_content=20220411&utm_term=The+Atlantic+Daily){:target="_blank"}
@@ -47,12 +47,11 @@ Vortrag und Podiumsdiskussion im Abgeordentenhaus zu Berlin zum Thema [Lebhafte 
 
 ## German media and materials
 
+DLF Forschung Aktuell: [Online-Diskussionen. Warum manche posten und andere nur still mitlesen](https://www.deutschlandfunk.de/online-diskussionen-warum-manche-posten-und-andere-nur-still-mitlesen-100.html){:target="_blank"}
+
 Max-Wissen: Aus der Forschung direkt in die Schule. [Geomax 31: Demokratie und soziale Medien](https://www.max-wissen.de/max-hefte/geomax-31-demokratie-und-social-media/){:target="_blank"}
 
-[Wie gefährlich sind digitale Medien für die Demokratie?](https://lfoswald.github.io/files/Essay_Oswald.pdf){:target="_blank"}
 
-## Twitter Threads
+## Social Media
 
-[Analyzing deliberative quality](https://x.com/LisaFOswaldo/status/1524428414844907521){:target="_blank"}
-
-
+I usually summarize new publications in [Bluesky threads](https://bsky.app/profile/lfoswaldo.bsky.social){:target="_blank"} and have recently also started to share research on [LinkedIn](https://www.linkedin.com/in/lfoswald/){:target="_blank"}. 
