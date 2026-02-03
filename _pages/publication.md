@@ -12,9 +12,11 @@ redirect_from:
 
 ### Working Papers
 
-Oswald, L., Schulz, W., Hertwig, R., Lazer, D., & Stier, S. (2025). The Tip of the Iceberg: How the Social Media Production-Consumption Gap Distorts Public Opinion for Citizens and Researchers. [SocArXiv](https://osf.io/frcv5_v1){:target="_blank"}
+Oswald, L., Schulz, W., Hertwig, R., Lazer, D., & Stier, S. (2025). The Tip of the Iceberg: How the Social Media Production-Consumption Gap Distorts Public Opinion for Citizens and Researchers. [[SocArXiv](https://osf.io/frcv5_v1)](https://osf.io/frcv5_v1){:target="_blank"}
 
 Oswald, L., Kozyreva, A., Nickl, P. L., Herzog, S. & Hertwig, R. (2025). Lateral reading and online search to boost citizens' competent navigation of online environments: testing interventions with web tracking data. [EU Deliverable Report](https://files-www.mis.mpg.de/mpi-typo3/SoMe4Dem/Deliverables/D4.2_SoMe4Dem.pdf){:target="_blank"}
+
+Oswald, L., & Munzert, S. (2025). Exposure to untrustworthy news media then and now: Declining news media quality over 7 years. OSF. [https://osf.io/5ndjx_v1](https://osf.io/5ndjx_v1){:target="_blank"}
 
 Oswald, L., Munzert, S., Barberá, P., Guess, A., and Yang, J. (2022). Beyond the tip of the iceberg? Exploring Characteristics of the Online Public with Digital Trace Data.  [SocArXiv](https://osf.io/preprints/socarxiv/yfmzh/){:target="_blank"}
 
