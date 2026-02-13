@@ -9,6 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+### 🎒 Political Behavior in Transforming Information Environments
+
+* Summer 2026, weekly research seminar
+* Teaching language: English
+* Program: MA Political Science, MA Comparative Democracy at Goethe University, Frankfurt
+
+### 🎒 Critical Computational Literacy in the Empirical Social Sciences
+
+* Summer 2026, 3-day seminar including lab-sessions in R
+* Teaching language: English
+* Program: MA Political Science, MA Comparative Democracy at Goethe University, Frankfurt
+
 ### 🎒 Introduction to R Workshop
 
 * Spring 2022, two-day (6h) workshop
