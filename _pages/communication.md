@@ -38,6 +38,14 @@ The podcast [Unraveling Behavior](https://www.mpib-berlin.mpg.de/unravelingbehav
 
 ## Public Talks German
 
+Vortrag und Podiumsdiskussion im Rahmen der Jungen Akademie Frankfurt, eingeladen durch die Hessische Landeszentrale für politische Bildung: [Design Demokratie |
+Digitale Räume gesellschaftlich gestalten](https://www.evangelische-akademie.de/kalender/design-demokratie/63882/){:target="_blank"}
+
+<a href="[https://www.youtube.com/watch?v=6N5w3Ve7yxQ](https://www.youtube.com/watch?v=05_K6-luIb0)
+" target="_blank"><img src="https://img.youtube.com/vi/05_K6-luIb0/0.jpg" 
+ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10"                   
+/></a>
+
 Vortrag und Podiumsdiskussion im Abgeordentenhaus zu Berlin zum Thema [Lebhafte Debatten und wechselvolle Geschichte: Die Zukunft der parlamentarischen Demokratie](https://www.parlament-berlin.de/das-haus/veranstaltungen/lebhafte-debatten-und-wechselvolle-geschichte){:target="_blank"}
 
 <a href="[https://www.youtube.com/watch?v=6N5w3Ve7yxQ](https://www.youtube.com/watch?v=BsrB5Kg_HVo&t=2s)
