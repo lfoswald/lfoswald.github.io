@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+### 🎒 Data Science Workflows for the Social Sciences
+
+* Winter 2026/27, weekly double-session research seminar (4 hours)
+* Teaching language: English
+* Program: MA Political Science, MA Comparative Democracy at Goethe University, Frankfurt
+
 ### 🎒 Political Behavior in Transforming Information Environments
 
 * Summer 2026, weekly research seminar
@@ -19,7 +25,7 @@ redirect_from:
 
 * Summer 2026, 3-day seminar including lab-sessions in R
 * Teaching language: English
-* Program: MA Political Science, MA Comparative Democracy at Goethe University, Frankfurt
+* Program: MA Political Science, MA Sociology, Frankfurt
 
 ### 🎒 Introduction to R Workshop
 
