@@ -14,13 +14,13 @@ redirect_from:
 
 Oswald, L., Schulz, W., Hertwig, R., Lazer, D., & Stier, S. (2026). The Tip of the Iceberg: How the Social Media Production-Consumption Gap Distorts Public Opinion for Citizens and Researchers. [SocArxiv - Version 2](https://osf.io/preprints/socarxiv/frcv5_v2){:target="_blank"}
 
-Oswald, L., Kozyreva, A., Nickl, P. L., Herzog, S. & Hertwig, R. (2025). Lateral reading and online search to boost citizens' competent navigation of online environments: testing interventions with web tracking data. [EU Deliverable Report](https://files-www.mis.mpg.de/mpi-typo3/SoMe4Dem/Deliverables/D4.2_SoMe4Dem.pdf){:target="_blank"}
-
 Oswald, L., Munzert, S., Barberá, P., Guess, A., and Yang, J. (2022). Beyond the tip of the iceberg? Exploring Characteristics of the Online Public with Digital Trace Data.  [SocArXiv](https://osf.io/preprints/socarxiv/yfmzh/){:target="_blank"}
 
 Oswald, L. (2022). Automating the Analysis of Online Deliberation? A Comparison of Manual and Computational Measures Applied to Climate Change Discussions. [SocArXiv](https://doi.org/10.31235/osf.io/qmzwx){:target="_blank"}, [Twitter summary](https://twitter.com/LisaFOswaldo/status/1524428414844907521){:target="_blank"}
 
 ### Peer-reviewed papers
+
+Oswald, L., Kozyreva, A., Herzog, S. M., Nickl, P. L., & Hertwig, R. (2026). Boosting Media Literacy Using Lateral Reading and Online Search Interventions. Psychological Science. [https://doi.org/10.1177/09567976261453813](https://doi.org/10.1177/09567976261453813){:target="_blank"}
 
 Oswald, L., & Munzert, S. (2026). Little change in a changing landscape: Tracking exposure to untrustworthy news in Germany from 2017 to 2024. Journal of Quantitative Description: Digital Media, 6. [https://doi.org/10.51685/jqd.2026.006](https://doi.org/10.51685/jqd.2026.006){:target="_blank"}
 
