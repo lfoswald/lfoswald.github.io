@@ -23,6 +23,8 @@ I hold a PhD in political science (Dr. rer. pol.) from the Hertie School in Berl
 
 ## Recent work
 
+Oswald, L., Kozyreva, A., Herzog, S. M., Nickl, P. L., & Hertwig, R. (2026). Boosting Media Literacy Using Lateral Reading and Online Search Interventions. Psychological Science. [https://doi.org/10.1177/09567976261453813](https://doi.org/10.1177/09567976261453813){:target="_blank"}
+
 Oswald, L., Schulz, W., Hertwig, R., Lazer, D., & Stier, S. (2026). The Tip of the Iceberg: How the Social Media Production-Consumption Gap Distorts Public Opinion for Citizens and Researchers (Frcv5_v2). SocArXiv. [https://osf.io/preprints/socarxiv/frcv5_v2/](https://osf.io/preprints/socarxiv/frcv5_v2/){:target="_blank"}
 
 Oswald, L., & Munzert, S. (2026). Little change in a changing landscape: Tracking exposure to untrustworthy news in Germany from 2017 to 2024. Journal of Quantitative Description: Digital Media, 6, 1–12. [https://doi.org/10.51685/jqd.2026.006](https://doi.org/10.51685/jqd.2026.006){:target="_blank"}
