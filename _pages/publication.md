@@ -39,6 +39,8 @@ Klaus, G., Ernst, A., & Oswald, L. (2020). Psychological factors influencing lay
 
 ### Working Papers
 
+Schulz, W., Robertson, C. E., Sjåstad, H., Ashokkumar, A., Oswald, L., Yang, J., Munzert, S., Van Bavel, J. J., & Guess, A. M. (2026). Online Discourse is Falsely Polarized by Self-Selection (7z69m_v1). PsyArXiv. [https://osf.io/preprints/psyarxiv/7z69m_v1/](https://osf.io/preprints/psyarxiv/7z69m_v1/){:target="_blank"}
+
 Oswald, L., Schulz, W., Hertwig, R., Lazer, D., & Stier, S. (2026). The Tip of the Iceberg: How the Social Media Production-Consumption Gap Distorts Public Opinion for Citizens and Researchers. [SocArxiv - Version 2](https://osf.io/preprints/socarxiv/frcv5_v2){:target="_blank"}
 
 Oswald, L., Munzert, S., Barberá, P., Guess, A., and Yang, J. (2022). Beyond the tip of the iceberg? Exploring Characteristics of the Online Public with Digital Trace Data.  [SocArXiv](https://osf.io/preprints/socarxiv/yfmzh/){:target="_blank"}
