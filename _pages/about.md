@@ -23,6 +23,8 @@ I hold a PhD in political science (Dr. rer. pol.) from the Hertie School in Berl
 
 ## Recent work
 
+Schulz, W., Robertson, C. E., Sjåstad, H., Ashokkumar, A., Oswald, L., Yang, J., Munzert, S., Van Bavel, J. J., & Guess, A. M. (2026). Online Discourse is Falsely Polarized by Self-Selection (7z69m_v1). PsyArXiv. [https://osf.io/preprints/psyarxiv/7z69m_v1/](https://osf.io/preprints/psyarxiv/7z69m_v1/){:target="_blank"}
+
 Oswald, L., Kozyreva, A., Herzog, S. M., Nickl, P. L., & Hertwig, R. (2026). Boosting Media Literacy Using Lateral Reading and Online Search Interventions. Psychological Science. [https://doi.org/10.1177/09567976261453813](https://doi.org/10.1177/09567976261453813){:target="_blank"}
 
 Oswald, L., Schulz, W., Hertwig, R., Lazer, D., & Stier, S. (2026). The Tip of the Iceberg: How the Social Media Production-Consumption Gap Distorts Public Opinion for Citizens and Researchers (Frcv5_v2). SocArXiv. [https://osf.io/preprints/socarxiv/frcv5_v2/](https://osf.io/preprints/socarxiv/frcv5_v2/){:target="_blank"}
